@@ -28,5 +28,3 @@ Then open `http://127.0.0.1:8000` in your browser.
 # Build static site
 mkdocs build
 ```
-
-The built site lands in `site/`. Vercel runs `pip install -r requirements.txt && mkdocs build` automatically on push.
