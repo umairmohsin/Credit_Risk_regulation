@@ -1,0 +1,82 @@
+site_name: SAMA Credit Risk Framework
+site_description: SAMA Minimum Capital Requirements for Credit Risk (v2.1, Dec 2022) — Basel III Standardised Approach
+site_url: ""
+
+theme:
+  name: material
+  favicon: assets/images/favicon.jpeg
+  logo: assets/images/favicon.jpeg
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - content.code.copy
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  copyright: >-
+    Content and document owned by SAMA (Saudi Central Bank) &mdash;
+    Minimum Capital Requirements for Credit Risk, Version 2.1, December 2022.
+    All rights reserved by SAMA. Refer to
+    <a href="https://www.sama.gov.sa" target="_blank">www.sama.gov.sa</a>
+    for the latest official publications and announcements.
+    This tool is for reference only.
+
+extra_css:
+  - assets/css/custom.css
+
+nav:
+  - Home: index.md
+  - Overview:
+    - overview/index.md
+    - Introduction & Scope: overview/introduction.md
+    - SAMA Reporting Requirements: overview/sama-requirements.md
+    - Approaches Overview & Due Diligence: overview/approaches-overview.md
+  - Standardised Approach:
+    - standardised-approach/index.md
+    - Individual Exposures (S7): standardised-approach/individual-exposures.md
+    - External Ratings (S8): standardised-approach/external-ratings.md
+    - Credit Risk Mitigation (S9): standardised-approach/crm.md

@@ -1,0 +1,57 @@
+/* ─── SAMA Regulatory Green — Light Mode ─── */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #005A30;
+  --md-primary-fg-color--light: #007A42;
+  --md-primary-fg-color--dark:  #003D20;
+  --md-accent-fg-color:         #007A42;
+  --md-accent-fg-color--transparent: rgba(0, 90, 48, 0.1);
+}
+
+/* ─── SAMA Regulatory Green — Dark Mode ─── */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #00A652;
+  --md-primary-fg-color--light: #00C060;
+  --md-primary-fg-color--dark:  #007A42;
+  --md-accent-fg-color:         #00C060;
+  --md-accent-fg-color--transparent: rgba(0, 166, 82, 0.1);
+}
+
+/* Clause text left border */
+.clause-text {
+  border-left: 3px solid var(--md-primary-fg-color);
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Risk weight tables — compact font */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+}
+
+/* Clause anchor offset for fixed header */
+[id^="clause-"] {
+  scroll-margin-top: 4rem;
+}
+
+[id^="table-"] {
+  scroll-margin-top: 4rem;
+}
+
+/* SAMA admonition — red border (regulatory warning) */
+.md-typeset .admonition.sama,
+.md-typeset details.sama {
+  border-color: #c62828;
+}
+.md-typeset .sama > .admonition-title,
+.md-typeset .sama > summary {
+  background-color: rgba(198, 40, 40, 0.1);
+}
+.md-typeset .sama > .admonition-title::before,
+.md-typeset .sama > summary::before {
+  background-color: #c62828;
+}
+
+/* Footer copyright */
+.md-footer-meta__inner {
+  font-size: 0.75rem;
+}
