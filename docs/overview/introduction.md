@@ -1,64 +1,46 @@
-# Introduction, Scope & Implementation Timeline
+# Introduction & Scope
 
-Sections 1–3 establish the legal basis for the regulation, which banks must comply, and when.
-
----
-
-## 1. Introduction { #clause-1 }
-
-=== "Clause Text"
-    > **1.** These minimum capital requirements for credit risk are based on the Basel Committee on Banking Supervision (BCBS) standards issued in December 2017. These requirements supersede the following SAMA circulars:
-    >
-    > - Circular No. 341000003699 dated 14/01/1434H
-    > - Circular No. 351000116305 dated 22/06/1435H
-    > - Circular No. 371000042256 dated 30/01/1437H
-    > - Circular No. 381000088501 dated 06/04/1438H
-    >
-    > The authority for this regulation derives from Royal Decree M/36 dated 15/04/1428H (Banking Control Law, Article 3(A)).
-
-=== "Key Facts"
-    | Item | Detail |
-    |---|---|
-    | Basel standard | BCBS December 2017 |
-    | SAMA legal authority | Royal Decree M/36, 15/04/1428H |
-    | Article | Banking Control Law, Article 3(A) |
-    | Superseded circulars | 4 circulars (2013–2017) |
+Sections 1–4: Legal basis, scope, effective date, and SAMA reporting.
 
 ---
 
-## 2. Scope of Application { #clause-2 }
+### 1.1 The Basel Committee on Banking Supervision issued the Basel III { #clause-1-1 }
 
-=== "Clause Text"
-    > **2.** These requirements apply on a consolidated basis and on a standalone basis to all domestic banks licensed to operate in Saudi Arabia. These requirements do not apply to branches of foreign banks operating in Saudi Arabia.
-
-=== "Decision Flow"
-    ```mermaid
-    flowchart TD
-        A[Is this a Saudi-licensed bank?] --> B{Domestic or Foreign Branch?}
-        B -- Domestic bank --> C{Standalone or Group?}
-        B -- Foreign branch in KSA --> D[❌ Not in scope]
-        C -- Standalone entity --> E[✅ Apply on standalone basis]
-        C -- Part of banking group --> F[✅ Apply on consolidated basis]
-        F --> G[Also apply standalone per S2]
-    ```
+> **1.1** The Basel Committee on Banking Supervision issued the Basel III: Finalizing post-crisis reforms in December 2017, which includes among others, the revised framework for Credit Risk aimed to enhance the robustness and risk sensitivity of the standardized approaches, balances simplicity of the framework and, comparability in the calculation of risk weighted assets (RWAs) for credit risk using different available approaches.
 
 ---
 
-## 3. Implementation Timeline { #clause-3 }
+### 1.2 This revised framework in risk-weighted assets for credit risk is issued by SAMA in exercise of the authority vested in SAMA under the Charter issued via Royal Decree No { #clause-1-2 }
 
-=== "Clause Text"
-    > **3.** Banks are required to apply these minimum capital requirements for credit risk starting from **01 January 2023**.
-
-=== "Key Facts"
-    | Item | Detail |
-    |---|---|
-    | Effective date | 01 January 2023 |
-    | Transition | No phase-in — full application from effective date |
+> **1.2** This revised framework in risk-weighted assets for credit risk is issued by SAMA in exercise of the authority vested in SAMA under the Charter issued via Royal Decree No. M/36 dated 11/04/1442H, and the Banking Control Law issued 01/01/1386H.
 
 ---
 
-## Cross-References
+### 1.3 This revised framework on risk-weighted assets for credit risk will supersede the following existing requirements related to the calculation of RWAs for credit risk { #clause-1-3 }
 
-- [S4 — Reporting obligations](sama-requirements.md)
-- [S5 — Choice of SA vs IRB approach](approaches-overview.md)
-- [S6 — Due diligence requirements](approaches-overview.md#clause-6)
+> **1.3** This revised framework on risk-weighted assets for credit risk will supersede the following existing requirements related to the calculation of RWAs for credit risk: Circular No. BCS 242, Date: 11 April 2007 (Mapping of Credit Assessment − Ratings Provided by Eligible External Credit Assessment Institution to Determine Risk Weighted Exposures). − Circular No. 351000121270, Date: 17 July 2014 (Basel III - Internal Rating Based Approaches for Credit Risk). Circular No. 391000047997, Date: 14 January 2018 (Reducing RWA for − mortgages to 50%). Circular No. 410589780000, Date: 1 June 2020 (Reducing RWA for MSMEs). − 2.Scope of Application
+
+---
+
+### 2.1 This framework applies to all domestic banks both on a consolidated basis, which include all branches and subsidiaries, and on a standalone basis { #clause-2-1 }
+
+> **2.1** This framework applies to all domestic banks both on a consolidated basis, which include all branches and subsidiaries, and on a standalone basis.
+
+---
+
+### 2.2 This framework is not applicable to foreign banks’ branches operating in the Kingdom of Saudi Arabia, and the branches shall comply with the regulatory capital requirements stipulated by their respective home regulators { #clause-2-2 }
+
+> **2.2** This framework is not applicable to foreign banks’ branches operating in the Kingdom of Saudi Arabia, and the branches shall comply with the regulatory capital requirements stipulated by their respective home regulators. 3.Implementation Timeline This framework will be effective on 01 January 2023. 4.SAMA Reporting Requirements: SAMA expects all banks to report their credit RWAs and capital charge using SAMA’s Q17 reporting template within 30 days after the end of each quarter.
+> 5. Overview of risk-weighted assets approaches for credit risk
+
+---
+
+## Section 3 — Implementation Timeline { #section-3 }
+
+This framework will be effective on **01 January 2023**.
+
+---
+
+## Section 4 — SAMA Reporting Requirements { #section-4 }
+
+SAMA expects all banks to report their credit RWAs and capital charge using SAMA's Q17 reporting template, which captures credit RWA computations under the Standardised Approach (SA) as well as under the IRB Approach.

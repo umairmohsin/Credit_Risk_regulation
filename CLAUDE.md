@@ -32,14 +32,14 @@ The built site lands in `site/`. Vercel runs `pip install -r requirements.txt &&
 docs/
 ├── index.md                          # Master nav hub + SA framework Mermaid diagram
 ├── overview/                         # Sections 1–6
-│   ├── introduction.md               # §1–3: Legal basis, scope, effective date
-│   ├── sama-requirements.md          # §4: Q17 reporting
-│   └── approaches-overview.md        # §5–6: SA vs IRB, due diligence
+│   ├── introduction.md               # S1–3: Legal basis, scope, effective date
+│   ├── sama-requirements.md          # S4: Q17 reporting
+│   └── approaches-overview.md        # S5–6: SA vs IRB, due diligence
 └── standardised-approach/            # Sections 7–9
     ├── index.md                      # Master exposure-type flowchart
-    ├── individual-exposures.md       # §7: All 13 exposure categories, Tables 1–13
-    ├── external-ratings.md           # §8: ECAIs, rating mapping, multiple ratings
-    └── crm.md                        # §9: Collateral, netting, guarantees
+    ├── individual-exposures.md       # S7: All 13 exposure categories, Tables 1–13
+    ├── external-ratings.md           # S8: ECAIs, rating mapping, multiple ratings
+    └── crm.md                        # S9: Collateral, netting, guarantees
 ```
 
 `mkdocs.yml` uses `mkdocs-awesome-pages-plugin` — nav order is controlled by `.pages` files in each directory.
@@ -62,7 +62,7 @@ Every clause follows this structure:
 ```
 
 - Anchor format: `{ #clause-X-Y }` for clauses, `{ #table-N }` for tables
-- Cross-links: `[§7.34](#clause-7-34)` (same page) or `[§9 CRM](crm.md#clause-9-1)`
+- Cross-links: `[S7.34](#clause-7-34)` (same page) or `[S9 CRM](crm.md#clause-9-1)`
 - Tables use standard markdown pipe syntax with `| --- |` separators
 
 ## Key Content Facts (for editing)

@@ -25,11 +25,15 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.indexes
+    - navigation.footer
     - toc.follow
+    - toc.integrate
     - search.highlight
     - search.suggest
+    - search.share
     - content.tabs.link
     - content.code.copy
+    - content.tooltips
 
 plugins:
   - search
@@ -71,12 +75,29 @@ extra_css:
 nav:
   - Home: index.md
   - Overview:
-    - overview/index.md
-    - Introduction & Scope: overview/introduction.md
-    - SAMA Reporting Requirements: overview/sama-requirements.md
-    - Approaches Overview & Due Diligence: overview/approaches-overview.md
-  - Standardised Approach:
-    - standardised-approach/index.md
-    - Individual Exposures (S7): standardised-approach/individual-exposures.md
-    - External Ratings (S8): standardised-approach/external-ratings.md
-    - Credit Risk Mitigation (S9): standardised-approach/crm.md
+    - overview/introduction.md
+    - Introduction 1–4: overview/introduction.md
+    - Approaches & Due Diligence 5–6: overview/approaches-overview.md
+  - Section 7 — Individual Exposures:
+    - section-7/index.md
+    - Sovereigns & Central Banks 7.1–7.3: section-7/7-1-sovereigns.md
+    - Public Sector Entities 7.4–7.7: section-7/7-2-pse.md
+    - Multilateral Dev. Banks 7.8–7.11: section-7/7-3-mdb.md
+    - Banks & Covered Bonds 7.12–7.35: section-7/7-4-banks.md
+    - Securities Firms 7.36: section-7/7-5-securities-firms.md
+    - Corporates & Spec. Lending 7.37–7.46: section-7/7-6-corporates.md
+    - Equity 7.47–7.54: section-7/7-7-equity.md
+    - Retail 7.55–7.60: section-7/7-8-retail.md
+    - Real Estate 7.61–7.85: section-7/7-9-real-estate.md
+    - Off-Balance Sheet 7.86–7.93: section-7/7-10-off-balance-sheet.md
+    - Default & Other Assets 7.94–7.102: section-7/7-11-default-other.md
+  - Section 8 — External Ratings:
+    - Section 8 Overview: section-8/index.md
+  - Section 9 — Credit Risk Mitigation:
+    - section-9/index.md
+    - General Requirements 9.1–9.15: section-9/9-1-general.md
+    - Simple Approach 9.16–9.39: section-9/9-2-simple.md
+    - Comprehensive Approach 9.40–9.64: section-9/9-3-comprehensive.md
+    - On-Balance Sheet Netting 9.65–9.69: section-9/9-4-netting.md
+    - Guarantees & Credit Derivatives 9.70–9.83: section-9/9-5-guarantees.md
+  - Downloads: downloads/index.md

@@ -1,0 +1,1382 @@
+{
+  "sections": {
+    "1": "A 0% risk weight will apply to:",
+    "2": "A 20% risk weight will apply to cash items in the process of collection.",
+    "3": "A write-off or account-specific provision is made as a result of a",
+    "4": "Any credit obligation is sold at a material credit-related economic loss;",
+    "6": "Required documentation:",
+    "7": "The borrower has sought or has been placed in bankruptcy or",
+    "9": "The European Investment Fund;",
+    "10": "The Caribbean Development Bank,",
+    "11": "IRB Approach: Risk Weight Functions 108",
+    "12": "The Council of Europe Development Bank;",
+    "14": "The International Finance Facility for Immunization; and",
+    "15": "The Asian Infrastructure Investment Bank.",
+    "16": "IRB Approach: Minimum requirements to use IRB approach 177",
+    "17": "Transition 229",
+    "18": "Securitization: general provisions 230",
+    "19": "Securitization: standardized approach 294",
+    "20": "Securitization: External- ratings-based approach (SEC- ERBA) 299",
+    "21": "Securitization: Internal assessment approach (SEC- IAA) 306",
+    "22": "Securitization: Internal- ratings-based approach 311",
+    "23": "Securitizations of non- performing loans 323",
+    "24": "Equity investments in funds 325",
+    "5": "A distressed restructuring of any credit obligation (i.e. a",
+    "8": "Any other situation where the bank considers that the borrower is"
+  },
+  "clauses": {
+    "1.1": {
+      "text": "1.1 The Basel Committee on Banking Supervision issued the Basel III: Finalizing \npost-crisis reforms in December 2017, which includes among others, the revised \nframework for Credit Risk aimed to enhance the robustness and risk sensitivity \nof the standardized approaches, balances simplicity of the framework and, \ncomparability in the calculation of risk weighted assets (RWAs) for credit risk \nusing different available approaches.",
+      "footnotes": {},
+      "tables": []
+    },
+    "1.2": {
+      "text": "1.2 This revised framework in risk-weighted assets for credit risk is issued by SAMA \nin exercise of the authority vested in SAMA under the Charter issued via Royal \nDecree No. M/36 dated 11/04/1442H, and the Banking Control Law issued \n01/01/1386H.",
+      "footnotes": {},
+      "tables": []
+    },
+    "1.3": {
+      "text": "1.3 This revised framework on risk-weighted assets for credit risk will supersede the \nfollowing existing requirements related to the calculation of RWAs for credit \nrisk: \nCircular No. BCS 242, Date: 11 April 2007 (Mapping of Credit Assessment \n− \nRatings Provided by Eligible External Credit Assessment Institution to \nDetermine Risk Weighted Exposures). \n− Circular No. 351000121270, Date: 17 July 2014 (Basel III - Internal Rating \nBased Approaches for Credit Risk). \nCircular No. 391000047997, Date: 14 January 2018 (Reducing RWA for \n− \nmortgages to 50%). \nCircular No. 410589780000, Date: 1 June 2020 (Reducing RWA for MSMEs). \n− \n \n \n2.Scope of Application",
+      "footnotes": {},
+      "tables": []
+    },
+    "2.1": {
+      "text": "2.1 This framework applies to all domestic banks both on a consolidated basis, \nwhich include all branches and subsidiaries, and on a standalone basis.",
+      "footnotes": {},
+      "tables": []
+    },
+    "2.2": {
+      "text": "2.2 This framework is not applicable to foreign banks’ branches operating in the \nKingdom of Saudi Arabia, and the branches shall comply with the regulatory \ncapital requirements stipulated by their respective home regulators. \n3.Implementation Timeline \n \nThis framework will be effective on 01 January 2023. \n \n4.SAMA Reporting Requirements: \n \n \nSAMA expects all banks to report their credit RWAs and capital charge using SAMA’s \nQ17 reporting template within 30 days after the end of each quarter. \n \n5. Overview of risk-weighted assets approaches for credit risk",
+      "footnotes": {},
+      "tables": []
+    },
+    "5.1": {
+      "text": "5.1 Banks can choose between two broad methodologies for calculating their risk- \nbased capital requirements for credit risk. The first is the standardized \napproach, which is set out in chapters 6 to 9: \ni. The standardized approach assigns standardized risk weights to \nexposures as described in chapter 7. Risk weighted assets are \ncalculated as the product of the standardized risk weights and the \nexposure amount. Exposures should be risk-weighted net of specific \nprovisions (including partial write-offs). \nii. To determine the risk weights in the standardized approach for certain \nexposure classes, banks may, as a starting point, use assessments by \nexternal credit assessment institutions (ECAIs) that are recognized as \n \n \neligible for capital purposes by SAMA. The requirements covering the \n[^1]\nuse of external ratings are set out in chapter 8. \niii. The credit risk mitigation techniques that are permitted to be \nrecognized under the standardized approach are set out in chapter 9.",
+      "footnotes": {
+        "1": "The notations in chapters 7 to 9 follow the methodology used by one institution, Standard and Poor’s (S&P). The use of S&P credit ratings is an example only; those of some other external credit assessment institutions could equally well be used. The ratings used throughout this document, therefore, do not express any preferences or determinations on external assessment institutions. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 9 of 349"
+      },
+      "tables": []
+    },
+    "5.2": {
+      "text": "5.2 The second risk-weighted assets approach is the internal ratings-based (IRB) \napproach, which allows banks to use their internal rating systems for credit \nrisk. The IRB approach is set out in chapters 10 to 16. \nBanks must seek \nSAMA’s regulatory approval before they can use the IRB Approach for \ncalculation of capital requirements for credit risk, subject to the Bank \nmeeting all minimum requirements for the use of IRB Approach, \nsupervisory review and validation exercise as may be carried out by \nSAMA.",
+      "footnotes": {},
+      "tables": []
+    },
+    "5.3": {
+      "text": "5.3 This policy document also covers the treatment in banking book of the \nfollowing exposures: \n1. Securitization exposures (chapters 18 to 23); \n2. Equity investments in funds (chapter 24); and \n Exposures arising from unsettled transactions and \n3.\nfailed trades (chapter 25).\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n6.Due diligence requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "6.1": {
+      "text": "6.1 Banks must perform due diligence to ensure that they have an adequate \nunderstanding, at origination and thereafter on a regular basis (at least \nannually), of the risk profile and characteristics of their counterparties. In cases \nwhere ratings are used, due diligence is necessary to assess the risk of the \nexposure for risk management purposes and whether the risk weight applied is \nappropriate and prudent. The sophistication of the due diligence should be \nappropriate to the size and complexity of banks’ activities. Banks must take \nreasonable and adequate steps to assess the operating and financial \nperformance levels and trends through internal credit analysis and/or other \nanalytics outsourced to a third party, as appropriate for each counterparty. \nBanks must be able to access information about their counterparties on a \nregular basis to complete due diligence analyses.",
+      "footnotes": {},
+      "tables": []
+    },
+    "6.2": {
+      "text": "6.2 For exposures to entities belonging to consolidated groups, due diligence \nshould, to the extent possible, be performed at the solo entity level to which \nthere is a credit exposure. In evaluating the repayment capacity of the solo \nentity, banks are expected to take into account the support of the group and the \npotential for it to be adversely impacted by problems in the group.",
+      "footnotes": {},
+      "tables": []
+    },
+    "6.3": {
+      "text": "6.3 Banks should have in place effective internal policies, processes, systems and \ncontrols to ensure that the appropriate risk weights are assigned to \ncounterparties. Banks must be able to demonstrate to SAMA that their due \ndiligence analyses are appropriate. \n \n \n7.Standardized Approach: Individual Exposures \n \nExposures to sovereigns",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.1": {
+      "text": "7.1 Exposures to sovereigns and their central banks will be risk-weighted based on \nthe external rating of the sovereign as follows: \n \n \nRisk weight table for sovereigns and central banks Table 1 \nExternal rating AAA to A+ to BBB+ BB+ to Below Unrated \nAA– A– to B– B– \nBBB– \nRisk weight 0% 20% 50% 100% 150% 100%",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "AAA to\nAA–",
+            "A+ to\nA–",
+            "BBB+\nto\nBBB–",
+            "BB+ to\nB–",
+            "Below\nB–"
+          ],
+          [
+            "0%",
+            "20%",
+            "50%",
+            "100%",
+            "150%"
+          ]
+        ]
+      ]
+    },
+    "7.2": {
+      "text": "7.2 A 0% risk weight can be applied to banks’ exposures to Saudi sovereign (or \nSAMA) of incorporation denominated in Saudi Riyal and funded[^2] in Saudi \nRiyal (SAR).[^3] Exposures to Saudi sovereign of incorporation denominated in \nforeign currencies should be treated according to the Saudi sovereign external \nrating.",
+      "footnotes": {
+        "2": "This is to say that the bank would also have corresponding liabilities denominated in the domestic currency.",
+        "3": "This lower risk weight may be extended to the risk-weighting of collateral and guarantees under the CRM framework (chapter 9) Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 11 of 349"
+      },
+      "tables": []
+    },
+    "7.3": {
+      "text": "7.3 Sovereign exposures to the member countries of Gulf Cooperation Council \n(GCC) will also be risk-weighted based on the external rating of the respective \ncountry as per Table 1.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.4": {
+      "text": "7.4 Exposures to the Bank for International Settlements, the International Monetary \nFund, the European Central Bank, the European Union, the European Stability \nMechanism and the European Financial Stability Facility may receive a 0% \nrisk weight. \n \n \n \n \n \n \n \n \n \nExposures to Public Sector Entities (PSEs)",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.5": {
+      "text": "7.5 For the purposes of RWA treatment, domestic PSEs in general include \ngovernment authorities, administrative and/or statutory bodies responsible to \nthe government, which may be owned, controlled, and/or mostly funded by the \ngovernment and not involved in any commercial undertakings. \n7.6Exposures to domestic PSEs will be risk-weighted based on the external rating \n \nof the Saudi sovereign external rating \n \n \nRisk weight table for PSEs \nBased on external rating of sovereign Table 2 \nExternal rating of the AAA to A+ to BBB+ to BB+ to Below Unrated \nsovereign AA– A– BBB– B– B– \nRisk weight 20% 50% 100% 100% 150% 100%",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "AAA to\nAA–",
+            "A+ to\nA–",
+            "BBB+ to\nBBB–",
+            "BB+ to\nB–",
+            "Below\nB–"
+          ],
+          [
+            "20%",
+            "50%",
+            "100%",
+            "100%",
+            "150%"
+          ]
+        ]
+      ]
+    },
+    "7.7": {
+      "text": "7.7 Foreign PSEs, including PSEs in GCC countries, shall be assigned a risk weight \nbased on the external rating of the PSE respective country’s sovereign rating. \n \nExposures to multilateral development banks (MDBs)",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.8": {
+      "text": "7.8 For the purposes of calculating capital requirements, a Multilateral Development \nBank (MDB) is an institution created by a group of countries that provides \nfinancing and professional advice for economic and social development projects. \nMDBs have large sovereign memberships and may include both developed and \n/or developing countries. Each MDB has its own independent legal and \noperational status, but with a similar mandate and a considerable number of joint \nowners.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.9": {
+      "text": "7.9 A 0% risk weight will be applied to exposures to specified MDBs that are \nrecognized by the Basel Committee for Banking Supervision (BCBS) for \nfulfilling the following eligibility criteria: \n1. very high-quality long-term issuer ratings, i.e. a majority of an MDB’s \n \n \nexternal ratings must be AAA; [^4] \n2. either the shareholder structure comprises a significant proportion of \nsovereigns with long-term issuer external ratings of AA– or better, or the \nmajority of the MDB’s fund-raising is in the form of paid-in equity/capital \nand there is little or no leverage; \n3. strong shareholder support demonstrated by the amount of paid-in capital \ncontributed by the shareholders; the amount of further capital the MDBs \nhave the right to call, if required, to repay their liabilities; and continued \ncapital contributions and new pledges from sovereign shareholders; \n4. adequate level of capital and liquidity (a case-by-case approach is necessaryin \norder to assess whether each MDB’s capital and liquidity are adequate); and, \n5. strict statutory lending requirements and conservative financial policies, which \nwould include among other conditions a structured approval process,internal \ncreditworthiness and risk concentration limits (per country, sector, and \nindividual exposure and credit category), large exposures approval by the \nboard or a committee of the board, fixed repayment schedules, effective \nmonitoring of use of proceeds, status review process, and rigorous \nassessment of risk and provisioning to loan loss reserve.",
+      "footnotes": {
+        "4": "MDBs that request to be added to the list of MDBs eligible for a 0% risk weight must comply with the AAA rating criterion at the time of the application to the BCBS. Once included in the list of eligible MDBs, the rating may be downgraded, but in no case lower than AA–. Otherwise, exposures to such MDBs will be subject to the treatment set out in paragraph 7.11 Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 13 of 349"
+      },
+      "tables": []
+    },
+    "7.10": {
+      "text": "7.10 The specified MDBs eligible for a 0% risk weight are as follows. This list is \nsubject to review by SAMA from time to time. \n1. The World Bank Group comprising the International Bank for \nReconstruction and Development; \nThe International Finance Corporation; \n2. \nThe Multilateral Investment Guarantee Agency and the International \n3. \nDevelopment Association; \n4. The Asian Development Bank; \n5. The African Development Bank; \n6.The European Bank for Reconstruction and Development; \n \n \n \n \nThe Inter-American Development Bank; \n7. \n8. The European Investment Bank, \n9. The European Investment Fund; \n10. The Caribbean Development Bank, \n11.The Islamic Development Bank \n \nThe Nordic Investment Bank; \n12. \nThe Council of Europe Development Bank; \n13. \n14. The International Finance Facility for Immunization; and \n15. The Asian Infrastructure Investment Bank.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.11": {
+      "text": "7.11 For exposures to all other MDBs, banks will assign to their MDB exposures the \ncorresponding “base” risk weights determined by the external ratings according \nto Table 3. \n \n \nTable 3 \nRisk weight table for MDB exposures \nExternal AAA A+ BBB+ BB+ \n \nBelow \nrating of to to to to Unrated \nB– \ncounterparty AA– A– BBB– B– \n“Base” risk weight 20% 30% 50% 100% 150% 50% \n \nExposures to banks",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "AAA\nto\nAA–",
+            "A+\nto\nA–",
+            "BBB+\nto\nBBB–",
+            "BB+\nto\nB–",
+            "Below\nB–"
+          ],
+          [
+            "20%",
+            "30%",
+            "50%",
+            "100%",
+            "150%"
+          ]
+        ]
+      ]
+    },
+    "7.12": {
+      "text": "7.12 and 7.36 respectively. The corporate exposure class does not include \nexposures to individuals. The corporate exposure class differentiates between \nthe following subcategories: \n1. General corporate exposures; \n2. Specialized lending exposures, as defined in paragraph 7.41 \n \n \nGeneral corporate exposures",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.13": {
+      "text": "7.13 Bank exposures will be risk-weighted based on the following hierarchy: \n1.External Credit Risk Assessment Approach (ECRA): This approach applies \n \nto all rated exposures to banks. Banks will apply chapter 8 to determine which \nrating can be used and for which exposures. \n2. Standardized Credit Risk Assessment Approach (SCRA): This approach is \napplicable to all exposures to banks that are unrated. \n \n \n \n \n \nExternal Credit Risk Assessment Approach (ECRA) \n \n \n[^6]",
+      "footnotes": {
+        "6": "An exposure is rated from the perspective of a bank if the exposure is rated by a recognized “eligible credit assessment institution” (ECAI) which has been nominated by the bank (i.e. the bank has informed SAMA of its intention to use the ratings of such ECAI for regulatory purposes in a consistent manner paragraph 8.8 In other words, if an external rating exists but the credit rating agency is not a recognized ECAI by SAMA, or the rating has been issued by an ECAI which has not been nominated by the bank, the exposure would be considered as being unrated from the perspective of the bank",
+        "5": "For internationally active banks, appropriate prudential standards (e.g. capital and liquidity requirements) and level of supervision should be in accordance with the Basel framework. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 15 of 349"
+      },
+      "tables": []
+    },
+    "7.14": {
+      "text": "7.14 Banks will assign to their rated bank exposures the corresponding “base” risk \nweights determined by the external ratings according to Table 4. Such ratings \nmust not incorporate assumptions of implicit government support[^7], unless the \nrating refers to a public bank owned by its government. Banks may continue \nto use external ratings, which incorporate assumptions of implicit government \nsupport for up to a period of five years, from the date of effective \nimplementation of this framework, when assigning the “base” risk weights in \nTable 4 to their bank exposures. \n \nRisk weight table for bank exposures \nExternal Credit Risk Assessment Approach (ECRA) Table 4 \nAAA BBB+ \nExternal rating of A+ to BB+ to Below \nto to \ncounterparty A– B– B– \nAA– BBB– \n \n“Base” risk weight 20% 30% 50% 100% 150% \nRisk weight for \n \nshort-term 20% 20% 20% 50% 150% \nexposures",
+      "footnotes": {
+        "7": "Implicit government support refers to the notion that the government would act to prevent bank creditors from incurring losses in the event of a bank default or bank distress."
+      },
+      "tables": [
+        [
+          [
+            "AAA\nto\nAA–",
+            "A+ to\nA–",
+            "BBB+\nto\nBBB–",
+            "BB+ to\nB–"
+          ],
+          [
+            "20%",
+            "30%",
+            "50%",
+            "100%"
+          ],
+          [
+            "20%",
+            "20%",
+            "20%",
+            "50%"
+          ]
+        ]
+      ]
+    },
+    "7.15": {
+      "text": "7.15 Exposures to banks with an original maturity of three months or less, as well as \nexposures to banks that arise from the movement of goods across national \n[^8]\nborders with an original maturity of six months or less can be assigned a risk \n \n \n \n \nweight that correspond to the risk weights for short term exposures in Table 4.",
+      "footnotes": {
+        "8": "This may include on-balance sheet exposures such as loans and off- balance sheet exposures such as self- liquidating trade-related contingent items. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 16 of 349"
+      },
+      "tables": []
+    },
+    "7.16": {
+      "text": "7.16 Banks must perform due diligence to ensure that the external ratings \nappropriately and conservatively reflect the creditworthiness of the bank \ncounterparties. If the due diligence analysis reflects higher risk characteristics \nthan that implied by the external rating bucket of the exposure (i.e. AAA to AA– \n; A+ to A– etc.), the bank must assign a risk weight at least one bucket higher \nthan the “base” risk weight determined by the external rating. Due diligence \nanalysis must never result in the application of a lower risk weight than that \ndetermined by the external rating. \n \nStandardized Credit Risk Assessment Approach (SCRA)",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "Grade A",
+            "Grade B"
+          ],
+          [
+            "40%",
+            "75%"
+          ],
+          [
+            "20%",
+            "50%"
+          ]
+        ]
+      ]
+    },
+    "7.17": {
+      "text": "7.17 Banks will apply the SCRA to all their unrated bank exposures. The SCRA \nrequires banks to classify bank exposures into one of three risk-weight buckets \n(i.e. Grades A, B and C) and assign the corresponding risk weights in Table 5. \nUnder the SCRA, exposures to banks without an external credit rating may \nreceive a risk weight of 30%, provided that the counterparty bank has a \nCommon Equity Tier 1 ratio which meets or exceeds 14% and a Tier 1 leverage \nratio which meets or exceeds 5%. The counterparty bank must also satisfy all \nthe requirements for Grade A classification. For the purposes of SCRA only, \n“published minimum regulatory requirements” in paragraphs 7.18 to 7.26 \nexcludes liquidity standards. \n \n \nRisk weight table for bank exposures \nStandardized Credit Risk Assessment Approach (SCRA) Table 5 \nCredit risk assessment Grade A Grade B Grade C \nOf counterparty \n“Base” risk weight 40% 75% 150% \nRisk weight for short- 20% 50% 150% \nTerm exposures \nSCRA: Grade A",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.18": {
+      "text": "7.18 Grade A refers to exposures to banks, where the counterparty bank has adequate \ncapacity to meet their financial commitments (including repayments of principal \nand interest) in a timely manner, for the projected life of the assets or exposures \n \n \nand irrespective of the economic cycles and business conditions.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.19": {
+      "text": "7.19 A counterparty bank classified into Grade A must meet or exceed the published \nminimum regulatory requirements and buffers established by its national \nsupervisor as implemented in the jurisdiction where it is incorporated, except for \nbank-specific minimum regulatory requirements or buffers that may be imposed \nthrough supervisory actions (e.g. via the Supervisory Review Process) and not \nmade public. If such minimum regulatory requirements and buffers (other than \nbank-specific minimum requirements or buffers) are not publicly disclosed or \notherwise made available by the counterparty bank, then the counterparty bank \nmust be assessed as Grade B or lower.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.20": {
+      "text": "7.20 If as part of its due diligence, a bank assesses that a counterparty bank does not \nmeet the definition of Grade A in paragraphs 7.18 and 7.19, exposures to the \ncounterparty bank must be classified as Grade B or Grade C. \n \nSCRA: Grade B",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.21": {
+      "text": "7.21 Grade B refers to exposures to banks, where the counterparty bank is subject to \nsubstantial credit risk, such as repayment capacities that are dependent on stable \nor favorable economic or business conditions.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.22": {
+      "text": "7.22 A counterparty bank classified into Grade B must meet or exceed the published \nminimum regulatory requirements (excluding buffers) established by its national \nsupervisor as implemented in the jurisdiction where it is incorporated, except for \nbank-specific minimum regulatory requirements that may be imposed through \nsupervisory actions (e.g. via the Supervisory Review Process) and not made \npublic. If such minimum regulatory requirements are not publicly disclosed or \notherwise made available by the counterparty bank then the counterparty bank \nmust be assessed as Grade C.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.23": {
+      "text": "7.23 Banks will classify all exposures that do not meet the requirements outlined in \nparagraphs 7.18 and 7.19 into Grade B, unless the exposure falls within Grade \nC under paragraphs 7.24 to 7.26. \n \nSCRA: Grade C",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.24": {
+      "text": "7.24 Grade C refers to higher credit risk exposures to banks, where the counterparty \nbank has material default risks and limited margins of safety. For these \ncounterparties, adverse business, financial, or economic conditions are very \nlikely to lead, or have led, to an inability to meet their financial commitments.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.25": {
+      "text": "7.25 At a minimum, if any of the following triggers is breached, a bank must classify \nthe exposure into Grade C: \n1. The counterparty bank does not meet the criteria for being classified \nas Grade B with respect to its published minimum regulatory \nrequirements, asset out in paragraphs 7.21 and 7.22 or \n2. Where audited financial statements are required, the external auditor \nhas issued an adverse audit opinion or has expressed substantial doubt \nabout the counterparty bank’s ability to continue as a going concern in \nits financial statements or audited reports within the previous 12 \nmonths.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.26": {
+      "text": "7.26 Even if the triggers set out in paragraph 7.25 are not breached, a bank may assess \nthat the counterparty bank meets the definition in paragraph 7.24. In that case, \nthe exposure to such counterparty bank must be classified into Grade C.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.27": {
+      "text": "7.27 Exposures to banks with an original maturity of three months or less, as well as \nexposures to banks that arise from the movement of goods across national \nborders with an original maturity of six months or less,[^9] can be assigned a risk \nweight that correspond to the risk weights for short term exposures in Table 5.",
+      "footnotes": {
+        "9": "This may include on-balance sheet exposures such as loans and off-balance sheet exposures such as self- liquidating trade-related contingent items. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 19 of 349"
+      },
+      "tables": []
+    },
+    "7.28": {
+      "text": "7.28 To reflect transfer and convertibility risk under the SCRA, a risk-weight floor \nbased on the risk weight applicable to exposures to the sovereign of the country \nwhere the bank counterparty is incorporated will be applied to the risk weight \nassigned to bank exposures. The sovereign floor applies when: \ni. The exposure is not in the local currency of the jurisdiction of \nincorporation of the debtor bank; and \nii. For a borrowing booked in a branch of the debtor bank in a foreign \njurisdiction, when the exposure is not in the local currency of the \njurisdiction in which the branch operates. The sovereign floor will not \napply to short-term (i.e. with a maturity below one year) self-liquidating, \ntrade-related contingent items that arise from the movement of goods. \n \nExposures to covered bonds",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.29": {
+      "text": "7.29 shall meet the requirements set out in paragraph 7.33 and shall include any \nof the following: \n1. claims on, or guaranteed by, sovereigns, their central banks, public sector \nentities or multilateral development banks; \n2. claims secured by residential real estate that meet the criteria set out in \nparagraph 7.63 and with a loan-to-value ratio of 80% or lower; \n3. claims secured by commercial real estate that meets the criteria set out in \n \n \nparagraph 7.63 and with a loan-to-value ratio of 60% or lower; or \n4. Claims on, or guaranteed by banks that qualify for a 30% or lower risk \nweight. However, such assets cannot exceed 15% of covered bond \nissuances.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.30": {
+      "text": "7.30 In order to be eligible for the risk weights set out in paragraph 7.34 the \nunderlying assets (the cover pool) of covered bonds as defined in paragraph",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.31": {
+      "text": "7.31 The nominal value of the pool of assets assigned to the covered bond instrument \n(s) by its issuer should exceed its nominal outstanding value by at least 10%. \nThe value of the pool of assets for this purpose does not need to be that required \nby the legislative framework. However, if the legislative framework does not \nstipulate a requirement of at least 10%, the issuing bank needs to publicly \ndisclose on a regular basis that their cover pool meets the 10% requirement in \npractice. In addition to the primary assets listed in this paragraph, additional \ncollateral may include substitution assets (cash or short term liquid and secure \nassets held in substitution of the primary assets to top up the cover pool for \nmanagement purposes) and derivatives entered into for the purposes of hedging \nthe risks arising in the covered bond program.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.32": {
+      "text": "7.32 The conditions set out in paragraphs 7.30 and 7.31 must be satisfied at the \ninception of the covered bond and throughout its remaining maturity. \n \nDisclosure requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.33": {
+      "text": "7.33 Exposures in the form of covered bonds are eligible for the treatment set out in \nparagraph 7.34, provided that the bank investing in the covered bonds can \ndemonstrate to SAMA that: \n1. It receives portfolio information at least on: \n the value of the cover pool and outstanding covered bonds; \n(a)\nthe geographical distribution and type of cover assets, loan size, \n(b) \ninterest rate and currency risks; \nthe maturity structure of cover assets and covered bonds; and \n(c) \nthe percentage of loans more than 90 days past due; and \n(d) \n \n \n2. The issuer makes the information referred to in point (1) available to the \nbank at least semi-annually.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.34": {
+      "text": "7.34 Covered bonds that meet the criteria set out in paragraphs 7.30 to 7.33 shall be \nrisk-weighted based on the issue-specific rating or the issuer’s risk weight \naccording to the rules outlined in chapter 8. For covered bonds with issue- \nspecific ratings[^10], the risk weight shall be determined according to Table 6. For \nunrated covered bonds, the risk weight would be inferred from the issuer’s \nECRA or SCRA risk weight according to Table 7. \n \n \nRisk weight table for rated covered bond exposures Table 6 \nAAA A+ to BBB+ BB+ to Below \nIssue-specific rating of the \nto A– to B– B– \ncovered bond \nAA– BBB– \n \n“Base” risk weight 10% 20% 20% 50% 100% \n \n \n \n \nRisk weight table for unrated covered bond exposures Table 7 \n \nRisk weight of the \n20% 30% 40% 50% 75% 100% 150% \nissuing bank \n \n“Base” risk weight 10% 15% 20% 25% 35% 50% 100%",
+      "footnotes": {
+        "10": "An exposure is rated from the perspective of a bank if the exposure is rated by a recognized ECAI which has been nominated by the bank (i.e. the bank has informed its supervisor of its intention to use the ratings of such ECAI for regulatory purposes in a consistent manner (see paragraph 8.8). In other words, if an external rating exists but the credit rating agency is not a recognized ECAI by SAMA, or the rating has been issued by an ECAI, which has not been nominated by the bank, the exposure would be considered as being unrated from the perspective of the bank. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 22 of 349"
+      },
+      "tables": [
+        [
+          [
+            "AAA\nto\nAA–",
+            "A+ to\nA–",
+            "BBB+\nto\nBBB–",
+            "BB+ to\nB–"
+          ],
+          [
+            "10%",
+            "20%",
+            "20%",
+            "50%"
+          ]
+        ],
+        [
+          [
+            "20%",
+            "30%",
+            "40%",
+            "50%",
+            "75%",
+            "100%"
+          ],
+          [
+            "10%",
+            "15%",
+            "20%",
+            "25%",
+            "35%",
+            "50%"
+          ]
+        ]
+      ]
+    },
+    "7.35": {
+      "text": "7.35 Banks must perform due diligence to ensure that the external ratings \nappropriately and conservatively reflect the creditworthiness of the covered bond \nand the issuing bank. If the due diligence analysis reflects higher risk \ncharacteristics than that implied by the external rating bucket of the exposure \n(i.e. AAA to AA–; A+ to A– etc.), the bank must assign a risk weight at least one \nbucket higher than the “base” risk weight determined by the external rating. \nDue diligence analysis must never result in the application of a lower risk weight \nthan that determined by the external rating. \n \nExposures to securities firms and other financial institutions",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.36": {
+      "text": "7.36 Exposures to all securities firms and financial institutions will be treated as \nexposures to corporates. \n \nExposures to corporates",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.37": {
+      "text": "7.37 Exposures to corporates include exposures (loans, bonds, receivables, etc.) to \nincorporated entities, associations, partnerships, proprietorships, trusts, funds \nand other entities with similar characteristics, except those, which qualify for \none of the other exposure classes. The treatment associated with subordinated \ndebt and equities of these counterparties is addressed in paragraphs 7.46 to 7.54. \nThe corporate exposure class includes exposures to insurance companies and \nother financial corporates that do not meet the definitions of exposures to banks, \nor securities firms and other financial institutions, as determined in paragraphs",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.38": {
+      "text": "7.38 For corporate exposures, banks will assign “base” risk weights according to \nTable 8. Banks must perform due diligence to ensure that the external ratings \nappropriately and conservatively reflect the creditworthiness of the \ncounterparties. Banks which have assigned risk weights to their rated bank \nexposures based on paragraph 7.14 must assign risk weights for all their \ncorporate exposures according to Table 8. If the due diligence analysis reflects \nhigher risk characteristics than that implied by the external rating bucket of the \nexposure (i.e. AAA to AA–; A+ to A– etc.), the bank must assign a risk weight \nat least one bucket higher than the “base” risk weight determined by the external \nrating. Due diligence analysis must never result in the application of a lower risk \nweight than that determined by the external rating.",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "AAA\nto\nAA–",
+            "A+ to\nA–",
+            "BBB+\nto\nBBB–",
+            "BB+\nto\nBB–",
+            "Below\nBB–"
+          ],
+          [
+            "20%",
+            "50%",
+            "75%",
+            "100%",
+            "150%"
+          ]
+        ]
+      ]
+    },
+    "7.39": {
+      "text": "7.39 Where banks have overseas operations, unrated corporate exposures of banks \nincorporated in jurisdictions that allow the use of external ratings for regulatory \npurposes will receive a 100% risk weight, with the exception of unrated \nexposures to corporate micro, small or medium-sized entities (MSMEs), as \ndescribed in paragraph 7.40. \n \n \n \nRisk weight table for corporate exposures Table 8 \nAAA A+ to BBB+ BB+ Below Unrated \nExternal rating \nto A– to to BB– \nof \nAA– BBB– BB– \ncounterparty \n“Base” risk weight 20% 50% 75% 100% 150% 100%",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.40": {
+      "text": "7.40 The definitions of MSMEs shall continue to apply as per SAMA Circular No. \n381000064902, Date: 15 March 2017 or any subsequent circulars, corporate \nMSMEs for the purpose of capital requirements are defined as corporate \nexposures where the reported annual revenues for the consolidated group of \nwhich the corporate MSME counterparty is a part is less than or equal to SAR \n200 million for the most recent financial year. For unrated exposures to \ncorporate MSMEs, an 85% risk weight will be applied. Exposures to MSMEs \nthat meet the criteria in paragraphs 7.57 will be treated as regulatory retail \nMSME exposures and risk weighted at 75%. \n \nSpecialized lending",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.41": {
+      "text": "7.41 A corporate exposure will be treated as a specialized lending exposure if such \nlending possesses some or all of the following characteristics, either in legal \nform or economic substance: \n1. The exposure is not related to real estate and is within the definitions of \nobject finance, project finance or commodities finance under paragraph \n7.42. If the activity is related to real estate, the treatment would be \ndetermined in accordance with paragraphs 7.61 to 7.83; \n2. The exposure is typically to an entity (often a special purpose vehicle \n(SPV)) that was created specifically to finance and/or operate physical \nassets; \n3. The borrowing entity has few or no other material assets or activities, \nand therefore little or no independent capacity to repay the obligation, \napart from the income that it receives from the asset(s) being financed. \nThe primary source of repayment of the obligation is the income \ngenerated by the asset(s), rather than the independent capacity of the \nborrowing entity; and \n4. The terms of the obligation give the lender a substantial degree of control \nover the asset(s) and the income that it generates.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.42": {
+      "text": "7.42 Exposures described in paragraph 7.41 will be classified in one of the following \nthree subcategories of specialized lending: \n \n1. Project finance \nRefers to the method of funding in which the lender looks primarily to \nthe revenues generated by a single project, both as the source of \nrepayment and as security for the loan. This type of financing is usually \nfor large, complex and expensive installations such as power plants, \nchemical processing plants, mines, transportation infrastructure, \nenvironment, media, and telecoms. Project finance may take the form of \nfinancing the construction of a new capital installation, or refinancing of \nan existing installation, with or without improvements. \n \n2.\n Object finance \nRefers to the method of funding the acquisition of equipment (e.g. ships, \naircraft, satellites, railcars, and fleets) where the repayment of the loan \nis dependent on the cash flows generated by the specific assets that have \nbeen financed and pledged or assigned to the lender. \n \n3. Commodities finance \nRefers to short-term lending to finance reserves, inventories, or \nreceivables of exchange-traded commodities (e.g. crude oil, metals, or \ncrops), where the loan will be repaid from the proceeds of the sale of \nthe commodity and the borrower has no independent capacity to repay \nthe loan.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.43": {
+      "text": "7.43 Banks will assign to their specialized lending exposures the risk weights \ndetermined by the issue-specific external ratings, if these are available, according \nto Table 8. Issuer ratings must not be used (i.e. paragraph 8.13 does not apply in \nthe case of specialized lending exposures).",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.44": {
+      "text": "7.44 For specialized lending exposures for which an issue-specific external rating is \nnot available, and for all specialized lending exposures of banks incorporated \nin jurisdictions that do not allow the use of external ratings for regulatory \npurposes, the following risk weights will apply: \n1. Object and commodities finance exposures will be risk-weighted at 100%; \n2. Project finance exposures will be risk-weighted at 130% during the pre- \noperational phase and 100% during the operational phase. Project finance \nexposures in the operational phase, which are deemed to be high quality, \nas described in paragraph 7.45, will be risk weighted at 80%. For this \npurpose, operational phase is defined as the phase in which the entity that \nwas specifically created to finance the project has \n a positive net cash flow that is sufficient to cover any remaining \n(a)\ncontractual obligation, and \n Declining long-term debt. \n(b)",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.45": {
+      "text": "7.45 A high quality project finance exposure refers to an exposure to a project finance \nentity that is able to meet its financial commitments in a timely manner and its \nability to do so is assessed to be robust against adverse changes in the economic \ncycle and business conditions. The following conditions must also be met: \n1. The project finance entity is restricted from acting to the detriment of \nthe creditors (e.g. by not being able to issue additional debt without the \nconsent of existing creditors); \n2.The project finance entity has sufficient reserve funds or other financial \n \narrangements to cover the contingency funding and working capital \nrequirements of the project; \n[^11]\n3. The revenues are availability-based or subject to a rate-of-return \n \n \n \n \nregulation or take-or-pay contract; \n4. The project finance entity’s revenue depends on one main counterparty \nand this main counterparty shall be a central government, PSE or a \ncorporate entity with a risk weight of 80% or lower; \n5. The contractual provisions governing the exposure to the project \nfinance entity provide for a high degree of protection for creditors in \ncase of a default of the project finance entity; \n6. The main counterparty or other counterparties which similarly comply \nwith the eligibility criteria for the main counterparty will protect the \ncreditors from the losses resulting from a termination of the project; \n7. All assets and contracts necessary to operate the project have been \npledged to the creditors to the extent permitted by applicable law; and \n8. Creditors may assume control of the project finance entity in case of \nits default. \n \nSubordinated debt, equity and other capital instruments",
+      "footnotes": {
+        "11": "Availability-based revenues mean that once construction is completed, the project finance entity is entitled to payments from its contractual counterparties (e.g. the government), as long as contract conditions are fulfilled. Availability payments are sized to cover operating and maintenance costs, debt service costs and equity returns as the project finance entity operates the project. Availability payments are not subject to swings in demand, such as traffic levels, and are adjusted typically only for lack of performance or lack of availability of the asset to the public Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 27 of 349"
+      },
+      "tables": []
+    },
+    "7.46": {
+      "text": "7.46 The treatment described in paragraphs 7.50 to 7.52. applies to subordinated debt, \nequity and other regulatory capital instruments issued by either corporates or \nbanks, provided that such instruments are not deducted from regulatory capital \nor risk-weighted at 250% according to the Regulatory Capital Under Basel III \nFramework (Article 4.4 – Section A of SAMA Circular No. 341000015689, \nDate: 19 December 2012), or risk weighted at 1250% according to paragraph \n7.54. It also excludes equity investments in funds treated under chapter 24.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.47": {
+      "text": "7.47 Equity exposures are defined on the basis of the economic substance of the \n[^12]\ninstrument. They include both direct and indirect ownership interests, whether \nvoting or non-voting, in the assets and income of a commercial enterprise or of \na financial institution that is not consolidated or deducted. An instrument is \n \n \n \nconsidered to be an equity exposure if it meets all of the following requirements: \n1. It is irredeemable in the sense that the return of invested funds can be \nachieved only by the sale of the investment or sale of the rights to the \ninvestment or by the liquidation of the issuer; \n2. It does not embody an obligation on the part of the issuer; and \n3. It conveys a residual claim on the assets or income of the issuer.",
+      "footnotes": {
+        "12": "Indirect equity interests include holdings of derivative instruments tied to equity interests, and holdings in corporations, partnerships, limited liability companies or other types of enterprises that issue ownership interests and are engaged principally in the business of investing in equity instruments. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 28 of 349"
+      },
+      "tables": []
+    },
+    "7.48": {
+      "text": "7.48 In addition to instruments classified as equity as a result of paragraph 7.47, the \nfollowing instruments must be categorized as an equity exposure: \n1. An instrument with the same structure as those permitted as \nTier 1 capital for banking organizations. \n2. An instrument that embodies an obligation on the part of the issuer and \nmeets any of the following conditions: \n The issuer may defer indefinitely the settlement of the obligation; \n(a)\n(b) The obligation requires (or permits at the issuer’s discretion) \nsettlement by issuance of a fixed number of the issuer’s equity \nshares; \n The obligation requires (or permits at the issuer’s discretion) \n(c)\nsettlement by issuance of a variable number of the issuer’s \nequity shares and (ceteris paribus) any change in the value of the \nobligation is attributable to, comparable to, and in the same \ndirection as, the change in the value of a fixed number of the \n[^13]\nissuer’s equity shares; or, \n \n \n \n \n \n \n \nThe holder has the option to require that the obligation be settled \n(d) \nin equity shares, unless either (i) in the case of a traded instrument, \nSAMA is content that the bank has demonstrated that the \ninstrument trades more like the debt of the issuer than like its \nequity, or (ii) in the case of non-traded instruments, SAMA is \ncontent that the bank has demonstrated that the instrument should \nbe treated as a debt position. In cases (i) and (ii), the bank may \ndecompose the risks for regulatory purposes, with the approval \nof SAMA.",
+      "footnotes": {
+        "13": "For certain obligations that require or permit settlement by issuance of a variable number of the issuer’s equity shares, the change in the monetary value of the obligation is equal to the change in the fair value of a fixed number of equity shares multiplied by a specified factor. Those obligations meet the conditions of item (c) if both the factor and the referenced number of shares are fixed. For example, an issuer may be required to settle an obligation by issuing shares with a value equal to three times the appreciation in the fair value of 1,000 equity shares. That obligation is considered to be the same as an obligation that requires settlement by issuance of shares equal to the appreciation in the fair value of 3,000 equity shares. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 29 of 349"
+      },
+      "tables": []
+    },
+    "7.49": {
+      "text": "7.49 Debt obligations and other securities, partnerships, derivatives or other vehicles \nstructured with the intent of conveying the economic substance of equity \n[^14]\nownership are considered an equity holding. This includes liabilities from \nwhich the return is linked to that of equities[^15]. Conversely, equity investments \nthat are structured with the intent of conveying the economic substance of debt \nholdings or securitization exposures would not be considered an equity holding. \n[^16]",
+      "footnotes": {
+        "14": "Equities that are recorded as a loan but arise from a debt/equity swap made as part of the orderly realization or restructuring of the debt are included in the definition of equity holdings. However, these instruments may not attract a lower capital charge than would apply if the holdings remained in the debt portfolio.",
+        "15": "SAMA may decide not to require that such liabilities be included where they are directly hedged by an equity holding, such that the net position does not involve material risk.",
+        "16": "SAMA may consider to re-characterize debt holdings as equites for regulatory purposes and to otherwise ensure the proper treatment of holdings under the supervisory review process."
+      },
+      "tables": []
+    },
+    "7.50": {
+      "text": "7.50 Banks will assign a risk weight of 400% to speculative unlisted equity exposures \ndescribed in paragraph 7.51 and a risk weight of 250% to all other equity \nholdings.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.51": {
+      "text": "7.51 Speculative unlisted equity exposures are defined as equity investments in \nunlisted companies that are invested for short-term resale purposes or are \nconsidered venture capital or similar investments, which are subject to price \nvolatility and are acquired in anticipation of significant future capital gains[^17].",
+      "footnotes": {
+        "17": "For example, investments in unlisted equities of corporate clients with which the bank has or intends to establish a long-term business relationship and debt-equity swaps for corporate restructuring purposes would be excluded. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 30 of 349"
+      },
+      "tables": []
+    },
+    "7.52": {
+      "text": "7.52 Banks will assign a risk weight of 150% to subordinated debt and capital \ninstruments other than equities.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.53": {
+      "text": "7.53 Notwithstanding the risk weights specified in paragraphs 7.50 to 7.52, the risk \nweight for investments in significant minority- or majority-owned and – \ncontrolled commercial entities depends upon the application of two materiality \nthresholds: \n1. For individual investments, 15% of the bank’s capital; and \n2.For the aggregate of such investments, 60% of the bank’s capital.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.54": {
+      "text": "7.54 Investments in significant minority- or majority-owned and –controlled \ncommercial entities below the materiality thresholds in paragraph 7.52 must be \nrisk- weighted as specified in paragraphs 7.47 to 7.52. Investments in excess \nof the materiality thresholds must be risk-weighted at 1250%. \n \n \nRetail exposure class",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.55": {
+      "text": "7.55 The retail exposure class excludes exposures within the real estate exposure \nclass. The retail exposure class includes the following types of exposures: \n1. Exposures to an individual person or persons; and \n2. Exposures to MSMEs (as defined in paragraph 7.40) that meet the \n“regulatory retail” criteria set out in paragraph 7.57 below. Exposures to \nMSMEs that do not meet these criteria will be treated as corporate \nMSMEs exposures under paragraph 7.40.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.56": {
+      "text": "7.56 Exposures within the retail exposure class will be treated according to paragraphs \n7.57to 7.59 below. For the purpose of determining risk weighted assets, the retail \n \nexposure class consists of the follow three sets of exposures: \n1.“Regulatory retail” exposures that do not arise from exposures to \n \n“transactors” (as defined in paragraph 7.58). \n2.“Regulatory retail” exposures to “transactors”. \n \n3. “Other retail” exposures.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.57": {
+      "text": "7.57 “Regulatory retail” exposures are defined as retail exposures that meet all of the \ncriteria listed below: \n \n1. Product criterion: \nThe exposure takes the form of any of the following: revolving credits \nand lines of credit (including credit cards, charge cards and overdrafts), \npersonal term loans and leases (e.g. instalment loans, auto loans and \nleases, student and educational loans, personal finance) and small \nbusiness facilities and commitments. Mortgage loans, derivatives and \nother securities (such as bonds and equities), whether listed or not, are \nspecifically excluded from this category. \n \n \n2. Low value of individual exposures: \nThe maximum aggregated exposure to one counterparty cannot exceed \nan absolute threshold of SAR 4.46 million. \n \n3. Granularity criterion: \n[^1819]\nNo aggregated exposure to one counterparty can exceed 0.2% of the \noverall regulatory retail portfolio. Defaulted retail exposures are to be \nexcluded from the overall regulatory retail portfolio when assessing the \ngranularity criterion.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.58": {
+      "text": "7.58 “Transactors” are obligors in relation to facilities such as credit cards and charge \ncards where the balance has been repaid in full at each scheduled repayment date \nfor the previous 12 months. Obligors in relation to overdraft facilities would also \nbe considered as transactors if there has been no drawdown over the previous 12 \nmonths.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.59": {
+      "text": "7.59 “Other retail” exposures are defined as exposures to an individual person or \npersons that do not meet all of the regulatory retail criteria in paragraph 7.57.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.60": {
+      "text": "7.60 The risk weights that apply to exposures in the retail asset class are as follows: \n1. Regulatory retail exposures that do not arise from exposures to \ntransactors (as defined in paragraph 7.58) will be risk weighted at \n75%. \n2. Regulatory retail exposures that arise from exposures to transactors (as \ndefined in paragraph 7.58) will be risk weighted at 45%. \n3. Other retail exposures will be risk weighted at 100%. \n \n \n \n \nReal estate exposure class",
+      "footnotes": {
+        "18": "Aggregated exposure means gross amount (i.e. not taking any credit risk mitigation into account) of all forms of retail exposures, excluding residential real estate exposures. In case of off-balance sheet claims, the gross amount would be calculated after applying credit conversion factors. In addition, “to one counterparty” means one or several entities that may be considered as a single beneficiary (e.g. in the case of a small business that is affiliated to another small business, the limit would apply to the bank’s aggregated exposure on both businesses).",
+        "19": "To apply the 0.2% threshold of the granularity criterion, banks must: first, identify the full set of exposures in the retail exposure class (as defined in paragraph 7.55); second, identify the subset of exposure that meet product criterion and do not exceed the threshold for the value of aggregated exposures to one counterparty (as defined in paragraph 7.57); and third, exclude any exposures that have a value greater than 0.2% of the subset before exclusions Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 33 of 349"
+      },
+      "tables": []
+    },
+    "7.61": {
+      "text": "7.61 Real estate is immovable property that is land, including agricultural land and \nforest, or anything treated as attached to land, in particular buildings, in contrast \nto being treated as movable/personal property. The real estate exposure asset \nclass consists of: \n1. Exposures secured by real estate that are classified as “regulatory real \nestate” exposures. \n2. Exposures secured by real estate that are classified as “other real estate” \nexposures. \n3. Exposures that are classified as “land acquisition, development and \nconstruction” (ADC) exposures.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.62": {
+      "text": "7.62 “Regulatory real estate” exposures consist of: \n1. “Regulatory residential real estate” exposures that are not “materially \ndependent on cash flows generated by the property”. \n2. “Regulatory residential real estate” exposures that are “materially \ndependent on cash flows generated by the property”. \n3. “Regulatory commercial real estate” exposures that are not \n“materially dependent on cash flows generated by the \nproperty”. \n4. “Regulatory commercial real estate” exposures that are \n“materially dependent on cash flows generated by the \nproperty”. \n \n \n \n \n \n \n \n \n \nRegulatory real estate exposures",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.63": {
+      "text": "7.63 (i.e. the requirements that are used to classify regulatory real estate \nexposures) where applicable; \n2. Pre-sale or pre-lease contracts amount to a significant portion of total \ncontracts or substantial equity at risk. Pre-sale or pre-lease contracts \nmust be legally binding written contracts and the purchaser/renter must \nhave made a substantial cash deposit which is subject to forfeiture if the \ncontract is terminated. Equity at risk should be determined as an \nappropriate amount of borrower-contributed equity to the real estate’s \nappraised as-completed value. \n \nRisk weight multiplier to certain exposures with currency mismatch",
+      "footnotes": {
+        "20": "Please refer to Art24, the ‘Registered Real Estate Mortgage’s Law issued via Royal Decree No. M/49 dated 03/07/2012. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 35 of 349"
+      },
+      "tables": []
+    },
+    "7.66": {
+      "text": "7.66 The LTV is the amount of the loan divided by the value of the property. When \ncalculating the LTV, the loan amount will be reduced as the loan amortizes. The \nvalue of the property will be maintained at the value measured at origination, \nwith the following exceptions: \n1. SAMA may require banks to revise the property value downward. If \nthe value has been adjusted downwards, a subsequent upwards \nadjustment can be made but not to a higher value than the value at \norigination. \n2. The value must be adjusted if an extraordinary, idiosyncratic event \noccurs resulting in a permanent reduction of the property value. \n3. Modifications made to the property that unequivocally increase its \nvalue could also be considered in the LTV.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.64": {
+      "text": "7.64 SAMA may require banks to increase the risk weights in the corresponding risk \nweight tables as appropriate if they are determined to be too low for real estate \nexposures based on default experience and other factors such as market price \n \n \n \nstability. Banks will be informed accordingly.",
+      "footnotes": {
+        "21": "Likewise, this would apply to junior liens held by the same bank that holds the senior lien in case there is an intermediate lien from another bank (i.e. the senior and junior liens held by the bank are not in sequential ranking order Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 36 of 349"
+      },
+      "tables": []
+    },
+    "7.65": {
+      "text": "7.65 Banks should put in place underwriting policies with respect to the granting of \nmortgage loans that include the assessment of the ability of the borrower to \nrepay. Underwriting policies must define a metric(s)(such as the loan’s debt \nservice coverage ratio) and specify its (their) corresponding relevant level(s) to \n[^22]\nconduct such assessment. Underwriting policies must also be appropriate when \nthe repayment of the mortgage loan depends materially on the cash flows \ngenerated by the property, including relevant metrics (such as an occupancy rate \nof the property).",
+      "footnotes": {
+        "22": "Metrics and levels for measuring the ability to repay should mirror the Financial Stability Board (FSB) Principles for sound residential mortgage underwriting practices (April 2012)."
+      },
+      "tables": []
+    },
+    "7.67": {
+      "text": "7.67 The LTV must be prudently calculated in accordance with the following \nrequirements: \n1.: \n Amount of the loan\nIncludes the outstanding loan amount and any undrawn committed \namount of the mortgage loan[^23]. The loan amount must be calculated \ngross of any provisions and other risk mitigants, except for pledged \n \n \n \ndeposits accounts with the lending bank that meet all requirements \nfor on-balance sheet netting and have been unconditionally and \nirrevocably pledged for the sole purposes of redemption of the \n[^24]\nmortgage loan. \n2.\n Value of the property: \nThe valuation must be appraised independently[^25] using prudently \nconservative valuation criteria. To ensure that the value of the property \nis appraised in a prudently conservative manner, the valuation must \nexclude expectations on price increases and must be adjusted to take \ninto account the potential for the current market price to be \nsignificantly above the value that would be sustainable over the life of \nthe loan. [^26]",
+      "footnotes": {
+        "23": "If a bank grants different loans secured by the same property and they are sequential in ranking order (i.e. there is no intermediate lien from another bank), the different loans should be considered as a single exposure for risk-weighting purposes, and the amount of the loans should be added to calculate the LTV Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 37 of 349",
+        "24": "The loan amount of the junior liens must include all other loans secured with liens of equal or higher ranking than the bank’s lien securing the loan for purposes of defining the LTV bucket and risk weight for the junior lien. If there is insufficient information for ascertaining the ranking of the other liens, the bank should assume that these liens rank pari passu with the junior lien held by the bank. This treatment does not apply to exposures that are risk weighted according to the loan splitting approach (paragraphs 7.75 and 7.78), where the junior lien would be taken into account in the calculation of the value of the property. The bank will first determine the “base” risk weight based on Tables 9, 10, 11 or 12 as applicable and adjust the “base” risk weight by a multiplier of 1.25, for application to the loan amount of the junior lien. If the “base” risk weight corresponds to the lowest LTV bucket, the multiplier will not be applied. The resulting risk weight of multiplying the “base” risk weight by 1.25 will be capped at the risk weight applied to the exposure when the requirements in paragraph 7.63 are not met.",
+        "25": "The valuation must be done independently from the bank’s mortgage acquisition, loan processing and loan decision process.",
+        "26": "In the case where the mortgage loan is financing the purchase of the property, the value of the property for LTV purposes will not be higher than the effective purchase price."
+      },
+      "tables": []
+    },
+    "7.68": {
+      "text": "7.68 A guarantee or financial collateral may be recognized as a credit risk mitigant in \nrelation to exposures secured by real estate if it qualifies as eligible collateral \nunder the credit risk mitigation framework (chapter 9). This may include \n[^27]\nmortgage insurance if it meets the operational requirements of the credit risk \nmitigation framework for a guarantee. Banks may recognize these risk mitigants \nin calculating the exposure amount; however, the LTV bucket and risk weight \nto be applied to the exposure amount must be determined before the application \nof the appropriate credit risk mitigation technique. \n \n \n \n \nDefinition of “regulatory residential real estate” exposures",
+      "footnotes": {
+        "27": "A bank’s use of mortgage insurance should mirror the FSB Principles for sound residential mortgage underwriting (April 2012). Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 38 of 349"
+      },
+      "tables": []
+    },
+    "7.69": {
+      "text": "7.69 A “regulatory residential real estate” exposure is a regulatory real estate \nexposure that is secured by a property that has the nature of a dwelling and \nsatisfies all applicable laws and regulations enabling the property to be \noccupied for housing purposes (i.e. residential property). [^28] \n \nDefinition of “regulatory commercial real estate” exposures",
+      "footnotes": {
+        "28": "For residential property under construction described in paragraph 7.63(1), this means there should be an expectation that the property will satisfy all applicable laws and regulations enabling the property to be occupied for housing purposes. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 39 of 349"
+      },
+      "tables": []
+    },
+    "7.70": {
+      "text": "7.70 A “regulatory commercial real estate” exposure is regulatory real estate exposure \nthat is not a regulatory residential real estate exposure. \n \nDefinition of exposures that are “materially dependent on cash flows \ngenerated by the property”",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.71": {
+      "text": "7.71 Regulatory real estate exposures (both residential and commercial) are classified \nas exposures that are “materially dependent on cash flows generated by the \nproperty” when the prospects for servicing the loan materially depend on the \ncash flows generated by the property securing the loan rather than on the \nunderlying capacity of the borrower to service the debt from other sources. The \nprimary source of these cash flows would generally be lease or rental payments, \nor the sale of the property. The distinguishing characteristic of these exposures \ncompared to other regulatory real estate exposures is that both the servicing of \nthe loan and the prospects for recovery in the event of default depend materially \non the cash flows generated by the property securing the exposure.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.72": {
+      "text": "7.72 It is expected that the material dependence condition, set out in paragraph 7.71 \nabove, would predominantly apply to loans to corporates, MSMEs or SPVs, \nbut is not restricted to those borrower types. As an example, a loan may be \nconsidered materially dependent if more than 50% of the income from the \nborrower used in the bank's assessment of its ability to service the loan is from \ncash flows generated by the residential property.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.73": {
+      "text": "7.73 As exceptions to the definition contained in paragraph 7.71 above, the following \ntypes of regulatory real estate exposures are not classified as exposures that are \nmaterially dependent on cash flows generated by the property: \n1. An exposure secured by a property that is the borrower’s primary \nresidence; \n2. An exposure secured by an income-producing residential housing \nunit, to an individual who has mortgaged less than two \nproperties or housing units; \n3. An exposure secured by residential real estate property to associations \nor cooperatives of individuals that are regulated under national \nlaw and exist with the only purpose of granting its members the \nuse of a primary residence in the property securing the loans; \nand \n4. An exposure secured by residential real estate property to public \nhousing companies and not-for-profit associations regulated \nunder national law that exist to serve social purposes and to offer \ntenants long-term housing. \n \nRisk weights for regulatory residential real estate exposures that are not \nmaterially dependent on cash flows generated by the property",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "50% <\nLTV\n≤60%",
+            "60% <\nLTV\n≤ 80%",
+            "80% <\nLTV\n≤ 90%",
+            "90% <\nLTV ≤\n100%"
+          ],
+          [
+            "25%",
+            "30%",
+            "40%",
+            "50%"
+          ]
+        ]
+      ]
+    },
+    "7.74": {
+      "text": "7.74 For regulatory residential real estate exposures that are not materially dependent \non cash flow generated by the property, the risk weight to be assigned to the total \nexposure amount will be determined based on the exposure’s LTV ratio in Table \n9 below. The use of the risk weights in Table 9 is referred to as the “whole loan” \napproach. \n \nWhole loan approach risk weights for regulatory residential real estate \nexposures that are not materially dependent on cash flows generated by \nthe property Table9 \n LTV ≤ 50% < 60% < 80% < 90% < LTV \n 50% LTV LTV LTV LTV ≤ > \nRisk \n≤60% ≤ 80% ≤ 90% 100% \n100% \nweight \n20% 25% 30% 40% 50% 70%",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.75": {
+      "text": "7.75 As an alternative to the whole loan approach for regulatory residential real estate \nexposures that are not materially dependent on cash flows generated by the \nproperty, banks may apply the “loan splitting” approach. Under the loan splitting \napproach, the risk weight of 20% is applied to the part of the exposure up to 55% \nof the property value and the risk weight of the counterparty (as prescribed in \nparagraph 7.81) is applied to the residual exposure[^29]. Where there are liens on \nthe property that are not held by the bank, the treatment is as follows: \n1. Where a bank holds the junior lien and there are senior liens not \nheld by the bank, to determine the part of the bank’s exposure that \nis eligible for the 20% risk weight, the amount of 55% of the \nproperty value should be reduced by the amount of the senior liens \nnot held by the bank. For example, for a loan of SAR 70,000 to an \nindividual secured on a property valued at SAR 100,000, where \nthere is also a senior ranking lien of SAR 10,000 held by another \ninstitution, the bank will apply a risk weight of 20% to SAR \n45,000 (=max (SAR 55,000 – SAR 10,000, 0)) of the \nexposure and, according to paragraph 7.81 a risk weight of 75% to the \nresidual exposure of SAR 25,000. (this does not take into account the \nother loan taken by the borrower from the senior lien holder). \n \n2. Where liens not held by the bank rank pari passu with the bank’s \nlien, to determine the part of the bank’s exposure that is eligible for \nthe 20% risk weight, the amount of 55% of the property value, \nreduced by the amount of more senior liens not held by the bank (if \nany), should be reduced by the product of: \n \n(i) 55% of the property value, reduced by the amount of any senior liens \n(if any, both held by the bank and held by other institutions); and \n(ii) The amount of liens not held by the bank that rank pari passu with \n \n \n \nthe bank’s lien divided by the sum of all pari passu liens. For \nexample, for a loan of SAR 70,000 to an individual secured on a \nproperty valued at SAR 100,000, where there is also a pari passu \nranking lien of SAR 10,000 held by another institution, the bank will \napply a risk weight of 20% to SAR 48,125 (=SAR 55,000 – SAR \n55,000 * SAR 10,000/SAR 80,000) of the exposure and, according \nto CRE20.89(1), a risk weight of 75% to the residual exposure of \nSAR 21,875. If both the loan and the bank’s lien is only SAR 30,000 \nand there is additionally a more senior lien of SAR 10,000 not held \nby the bank, the property value remaining available is SAR 33,750 \n(= (SAR 55,000 – SAR 10,000) - ((SAR 55,000 – SAR 10,000) * \nSAR 10,000/(SAR 10,000+ SAR 30,000)), and the bank will apply a \nrisk weight of 20% to SAR 30,000. \n \nRisk weights for regulatory residential real estate exposures that are materially \ndependent on cash flows generated by the property",
+      "footnotes": {
+        "29": "For example, for a loan of SAR 70,000 to an individual secured on a property valued at SAR 100,000, the bank will apply a risk weight of 20% to SAR 55,000 of the exposure and, according to paragraph 7.82(1), a risk weight of 75% to the residual exposure of SAR 15,000. This gives total risk weighted assets for the exposure of SAR 22,250 = (0.20 * SAR 55,000) + (0.75 * SAR 15,000). Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 41 of 349"
+      },
+      "tables": []
+    },
+    "7.76": {
+      "text": "7.76 For regulatory residential real estate exposures that are materially dependent on \ncash flows generated by the property, the risk weight to be assigned to the total \nexposure amount will be determined based on the exposure’s LTV ratio in \nTable10 below. \n \nRisk weights for regulatory residential real estate exposures that are \nTable 10 \nmaterially dependent on cash flows generated by the property \n 50% < 60% < 80% < 90% < \nLTV ≤50% LTV > \n LTV LTV LTV LTV ≤ 100% \nRisk \n≤ 60% ≤ 80% ≤ 90% 100% \nweight \n \n30% 35% 45% 60% 75% 105% \n \n \n \n \n \n \n \n \n \n \n \n \n \nRisk weights for regulatory commercial real estate exposures that are not \nmaterially dependent on cash flows generated by the property",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "50% <\nLTV\n≤ 60%",
+            "60% <\nLTV\n≤ 80%",
+            "80% <\nLTV\n≤ 90%",
+            "90% <\nLTV ≤\n100%"
+          ],
+          [
+            "35%",
+            "45%",
+            "60%",
+            "75%"
+          ]
+        ]
+      ]
+    },
+    "7.77": {
+      "text": "7.77 For regulatory commercial real estate exposures that are not materially \ndependent on cash flow generated by the property, the risk weight to be assigned \nto the total exposure amount will be determined based on the exposure’s LTV in \nTable 11 below (which sets out a whole loan approach). The risk weight of the \ncounterparty for the purposes of Table 11 below and 7.78 below is prescribed in \nparagraph 7.81. \n \n \nWhole loan approach risk weights for regulatory commercial real estate \nexposures that are not materially dependent on cash flows \ngenerated by the property Table 11 \n \nLTV ≤ 60% LTV > 60% \n \nRisk weight \nMin (60%, RW of RW of counterparty \ncounterparty)",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.78": {
+      "text": "7.78 Banks may apply the “loan splitting” approach, as an alternative to the whole \nloan approach, for regulatory commercial real estate exposures that are not \nmaterially dependent on cash flows generated by the property. Under the loan \nsplitting approach, the risk weight of 60% or the risk weight of the counterparty, \nwhichever is lower, is applied to the part of the exposure up to 55% of the \n[^30]\nproperty value, and the risk weight of the counterparty is applied to the residual \nexposure. \n \n \n \n \n \n \n \n \n \n \nRisk weights for regulatory commercial real estate exposures that are \nmaterially dependent on cash flows generated by the property",
+      "footnotes": {
+        "30": "Where there are liens on the property that are not held by the bank, the part of the exposure up to 55% of the property value should be reduced by the amount of the senior liens not held by the bank and by a pro-rata percentage of any liens pari passu with the bank’s lien but not held by the bank. See paragraph 7.75 for examples of how this methodology applies in the case of residential retail exposures. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 43 of 349"
+      },
+      "tables": []
+    },
+    "7.79": {
+      "text": "7.79 For regulatory commercial real estate exposures that are materially dependent \non cash flows generated by the property, the risk weight to be assigned to the \ntotal exposure amount will be determined based on the exposure’s LTV in \nTable 12 below. \n \nWhole loan approach risk weights for regulatory commercial \nreal estate exposures that are materially dependent on cash \nTable12 \nflows generated by the property \n \nLTV ≤ 60% 60% < LTV ≤ 80% LTV > 80% \n \nRisk weight \n70% 90% 110% \n \nDefinition of “other real estate” exposures and applicable risk weights",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "LTV ≤ 60%",
+            "60% < LTV ≤ 80%"
+          ],
+          [
+            "70%",
+            "90%"
+          ]
+        ]
+      ]
+    },
+    "7.80": {
+      "text": "7.80 An “other real estate” exposure is an exposure within the real estate asset \nclass that is not a regulatory real estate exposure (as defined in paragraph",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.81": {
+      "text": "7.81 Other real estate exposures are risk weighted as follows: \n1. The risk weight of the counterparty is used for other real estate \nexposures that are not materially dependent on the cash flows \ngenerated by the property. For exposures to individuals the risk weight \napplied will be 75%. For exposures to SMEs, the risk weight applied \nwill be 85%. For exposures to other counterparties, the risk weight \napplied is the risk weight that would be assigned to an unsecured \nexposure to that counterparty. \n2. The risk weight of 150% is used for other real estate exposures that \nare materially dependent on the cash flows generated by the property. \n \n \n \n \n \n \nDefinition of land acquisition, development and construction exposures \nand applicable risk weights",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.82": {
+      "text": "7.82 Land ADC exposures[^31] refers to loans to companies or SPVs financing any of \nthe land acquisition for development and construction purposes, or development \nand construction of any residential or commercial property. ADC exposures will \nbe risk-weighted at 150%, unless they meet the criteria in paragraph 7.83.",
+      "footnotes": {
+        "31": "planning consent or intention to apply for planning consent. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 45 of 349"
+      },
+      "tables": []
+    },
+    "7.83": {
+      "text": "7.83 ADC exposures to residential real estate may be risk weighted at 100%, provided \nthat the following criteria are met: \n1. prudential underwriting standards meet the requirements in paragraph",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.84": {
+      "text": "7.84 For unhedged retail and residential real estate exposures to individuals where \nthe lending currency differs from the currency of the borrower’s source of \nincome, banks will apply a 1.5 times multiplier to the applicable risk weight \naccording to paragraphs 7.55 to 7.60 and 7.74 to 7.76, subject to a maximum \nrisk weight of 150%.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.85": {
+      "text": "7.85 For the purposes of paragraph 7.84, an unhedged exposure refers to an exposure \nto a borrower that has no natural or financial hedge against the foreign exchange \nrisk resulting from the currency mismatch between the currency of the \nborrower’s income and the currency of the loan. A natural hedge exists where \nthe borrower, in its normal operating procedures, receives foreign currency \nincome that matches the currency of a given loan (e.g. remittances, rental \n \nADC exposures do not include the acquisition of forest or desert or agricultural land, where there is no \n \n \nincomes, salaries). A financial hedge generally includes a legal contract with a \nfinancial institution (e.g. forward contract). For the purposes of application of \nthe multiplier, only these natural or financial hedges are considered sufficient \nwhere they cover at least 90% of the loan instalment, regardless of the number \nof hedges. \n \nOff-balance sheet items",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.86": {
+      "text": "7.86 Off-balance sheet items will be converted into credit exposure equivalents \nthrough the use of credit conversion factors (CCF). In the case of \ncommitments, the committed but undrawn amount of the exposure would be \nmultiplied by the CCF. For these purposes, commitment means any contractual \narrangement that has been offered by the bank and accepted by the client to \nextend credit, purchase assets or issue credit substitutes.[^32] It includes any such \narrangement that can be unconditionally cancelled by the bank at any time \nwithout prior notice to the obligor. It also includes any such arrangement that \ncan be cancelled by the bank if the obligor fails to meet conditions set out in \nthe facility documentation, including conditions that must be met by the obligor \nprior to any initial or subsequent drawdown under the arrangement. \nCounterparty risk weightings for over-the-counter (OTC) derivative \ntransactions will not be subject to any specific ceiling. \n \n7.87A 100% CCF will be applied to the following items: \n \n1. Direct credit substitutes, e.g. general guarantees of indebtedness \n(including standby letters of credit serving as financial guarantees \nfor loans and securities) and acceptances (including endorsements \nwith the character of acceptances). \n \n \n \n \n \n2. Sale and repurchase agreements and asset sales with recourse[^33] where \nthe credit risk remains with the bank. \n3. The lending of banks’ securities or the posting of securities as collateral \nby banks, including instances where these arise out of repo-style \ntransactions (i.e. repurchase/reverse repurchase and securities \nlending/securities borrowing transactions). The risk-weighting \ntreatment for counterparty credit risk must be applied in addition \nto the credit risk charge on the securities or posted collateral, \nwhere the credit risk of the securities lent or posted as collateral \nremains with the bank. This paragraph does not apply to posted \ncollateral related to derivative transactions that is treated in \naccordance with the counterparty credit risk standards. \n4. Forward asset purchases, forward deposits and partly paid shares and \n[^34]\nsecurities, which represent commitments with certain drawdown. \n5. Off-balance sheet items that are credit substitutes not explicitly included \nin any other category.",
+      "footnotes": {
+        "32": "Certain arrangements might be exempted from the definition of commitments provided that the following conditions are met: (i) the bank receives no fees or commissions to establish or maintain the arrangements; (ii) the client is required to apply to the bank for the initial and each subsequent drawdown; (iii) the bank has full authority, regardless of the fulfilment by the client of the conditions set out in the facility documentation, over the execution of each drawdown; and (iv) the bank’s decision on the execution of each drawdown is only made after assessing the creditworthiness of the client immediately prior to drawdown. Exempted arrangements that meet the above criteria are limited to certain arrangements for corporates and MSMEs, where counterparties are closely monitored on an ongoing basis. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 46 of 349",
+        "33": "These items are to be weighted according to the type of asset and not according to the type of counterparty with whom the transaction has been entered into.",
+        "34": "These items are to be weighted according to the type of asset and not according to the type of counterparty with whom the transaction has been entered into. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 47 of 349"
+      },
+      "tables": []
+    },
+    "7.88": {
+      "text": "7.88 A 50% CCF will be applied to note issuance facilities and revolving underwriting \nfacilities regardless of the maturity of the underlying facility.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.89": {
+      "text": "7.89 A 50% CCF will be applied to certain transaction-related contingent items (e.g. \nperformance bonds, bid bonds, warranties and standby letters of credit related to \nparticular transactions).",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.90": {
+      "text": "7.90 A 40% CCF will be applied to commitments, regardless of the maturity of the \nunderlying facility, unless they qualify for a lower CCF.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.91": {
+      "text": "7.91 A 20% CCF will be applied to both the issuing and confirming banks of short- \nterm self-liquidating trade letters of credit arising from the movement of goods \n(e.g. documentary credits collateralized by the underlying shipment). Short term \nin this context means with a maturity below one year.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.92": {
+      "text": "7.92 A 10% CCF will be applied to commitments that are unconditionally cancellable \nat any time by the bank without prior notice, or that effectively provide for \nautomatic cancellation due to deterioration in a borrower’s creditworthiness. \nSAMA may require applying higher CCF to certain commitments as appropriate \nbased on various factors, which may constrain banks’ ability to cancel the \ncommitment in practice.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.93": {
+      "text": "7.93 Where there is an undertaking to provide a commitment on an off-balance sheet \nitem, banks are to apply the lower of the two applicable CCFs[^35]. \n \nExposures that give rise to counterparty credit risk",
+      "footnotes": {
+        "35": "For example, if a bank has a commitment to open short-term self- liquidating trade letters of credit arising from the movement of goods, a 20% CCF will be applied (instead of a 40% CCF); and if a bank has an unconditionally cancellable commitment described in paragraph 7.92 to issue direct credit substitutes, a 10% CCF will be applied (instead of a 100% CCF). Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 48 of 349"
+      },
+      "tables": []
+    },
+    "7.94": {
+      "text": "7.94 For exposures that give rise to counterparty credit risk according to paragraph 5.3 \nin The Counterparty Credit Risk (CCR) Framework (i.e. OTC derivatives, \nexchange-traded derivatives, long settlement transactions and securities \nfinancing transactions), the exposure amount to be used in the determination of \nRWA is to be calculated under the rules set out in chapters 3 to 8 in The \nCounterparty Credit Risk (CCR) Framework. \n \nCredit derivatives",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.95": {
+      "text": "7.95 A bank providing credit protection through a first-to-default or second-to-default \ncredit derivative is subject to capital requirements on such instruments. For first- \nto-default credit derivatives, the risk weights of the assets included in the basket \nmust be aggregated up to a maximum of 1250% and multiplied by the nominal \namount of the protection provided by the credit derivative to obtain the risk- \nweighted asset amount. For second-to-default credit derivatives, the treatment is \nsimilar; however, in aggregating the risk weights, the asset with the lowest risk- \nweighted amount can be excluded from the calculation. This treatment applies \nrespectively for nth-to-default credit derivatives, for which the n-1 assets with \nthe lowest risk-weighted amounts can be excluded from the calculation. \n \n \n \nDefaulted exposures",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.96": {
+      "text": "7.96 For risk-weighting purposes under the standardized approach, a defaulted \nexposure is defined as one that is past due for more than 90 days, or is an \nexposure to a defaulted borrower. A defaulted borrower is a borrower in respect \nof whom any of the following events have occurred: \n1. Any material credit obligation that is past due for more than 90 \ndays. Overdrafts will be considered as being past due once the \ncustomer has breached an advised limit or been advised of a limit \nsmaller than current outstanding; \n2. Any material credit obligation is on non-accrued status (e.g. the \nlending bank no longer recognizes accrued interest as income or, \nif recognized, makes an equivalent amount of provisions); \n3. A write-off or account-specific provision is made as a result of a \nsignificant perceived decline in credit quality subsequent to the \nbank taking on any credit exposure to the borrower; \n4. Any credit obligation is sold at a material credit-related economic loss; \n5. A distressed restructuring of any credit obligation (i.e. a \nrestructuring that may result in a diminished financial obligation \ncaused by the material forgiveness, or postponement, of principal, \ninterest or (where relevant) fees) is agreed by the bank; \n6.The borrower’s bankruptcy or a similar order in respect of any of \n \nthe borrower’s credit obligations to the banking group has been \nfiled; \n7. The borrower has sought or has been placed in bankruptcy or \nsimilar protection where this would avoid or delay repayment of \nany of the credit obligations to the banking group; or \n8. Any other situation where the bank considers that the borrower is \nunlikely to pay its credit obligations in full without recourse by the \nbank to actions such as realizing security.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.97": {
+      "text": "7.97 For retail exposures, the definition of default can be applied at the level of a \nparticular credit obligation, rather than at the level of the borrower. As such, \ndefault by a borrower on one obligation does not require a bank to treat all other \nobligations to the banking group as defaulted.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.98": {
+      "text": "7.98 With the exception of residential real estate exposures treated under paragraph",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.99": {
+      "text": "7.99 Defaulted residential real estate exposures where repayments do not materially \ndepend on cash flows generated by the property securing the loan shall be risk- \nweighted net of specific provisions and partial write-offs at 100%. Guarantees or \nfinancial collateral which are eligible according to the credit risk mitigation \nframework might be taken into account in the calculation of the exposure in \naccordance with paragraph 7.68.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.100": {
+      "text": "7.100 For the purpose of defining the secured or guaranteed portion of the defaulted \nexposure, eligible collateral and guarantees will be the same as for credit risk. \n \nOther assets",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.101": {
+      "text": "7.101 Article 4.4 – Section A of SAMA Guidance Document Concerning the \nImplementation of Basel III (Circular No. 341000015689, Date: 19 December \n2012) - specifies a deduction treatment for the following exposures: significant \ninvestments in the common shares of unconsolidated financial institutions, \nmortgage servicing rights, and deferred tax assets that arise from temporary \ndifferences. The exposures are deducted in the calculation of Common Equity \nTier1 if they exceed the thresholds set out in that article. A 250% risk weight \napplies to the amount of the three “threshold deduction” items listed in the \narticle that are not deducted by the article.",
+      "footnotes": {},
+      "tables": []
+    },
+    "7.102": {
+      "text": "7.102 The standard risk weight for all other assets will be 100%, with the exception of \nthe following exposures: \n1. A 0% risk weight will apply to: \nCash owned and held at the bank or in transit; and \n(a) \nGold bullion held at the bank or held in another bank on an allocated \n(b) \nbasis, to the extent the gold bullion assets are backed by gold bullion \nliabilities. \n2. A 20% risk weight will apply to cash items in the process of collection. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n8.Standardized approach: the use of external rating \n \nRecognition of external ratings by SAMA",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.1": {
+      "text": "8.1 The following ECAIs qualify as Eligible ECAI’s in Saudi Arabia, \n(1) Standard & Poor's (S&P); \n(2) Moody's; and \n(3) Fitch. \n \nThe recognition process",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.2": {
+      "text": "8.2 Only credit assessments from credit rating agencies recognized as external credit \nassessment institutions (ECAIs) will be allowed. SAMA will determine on a \ncontinuous basis whether an ECAI meets the criteria listed in 8.3 and recognition \nwill only be provided in respect of ECAI ratings for types of exposure where all \ncriteria and conditions are met. SAMA will also take into account the criteria and \nconditions provided in the International Organization of Securities Commissions' \nCode of Conduct Fundamentals for Credit Rating Agencies when determining \nECAI eligibility.\n \n \nEligibility criteria",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.3": {
+      "text": "8.3 An ECAI must satisfy each of the following eight criteria. \n(1): \n Objectivity\nThe methodology for assigning external ratings must be rigorous, \nsystematic, and subject to some form of validation based on historical \nexperience. Moreover, external ratings must be subject to ongoing review \nand responsive to changes in financial condition. Before being recognized \nby SAMA, a rating methodology for each market segment, including \nrigorous back testing, must have been established for at least one year and \npreferably three years. \n(2) Independence: \nAn ECAI should be independent and should not be subject to political or \n \n \neconomic pressures that may influence the rating. In particular, an ECAI \nshould not delay or refrain from taking a rating action based on its potential \neffect (economic, political or otherwise). The rating process should be as \nfree as possible from any constraints that could arise in situations where \nthe composition of the board of directors or the shareholder structure of \nthe credit rating agency may be seen as creating a conflict of interest. \nFurthermore, an ECAI should separate operationally, legally and, if \npracticable, physically its rating business from other businesses and \nanalysts. \n(3) International access/transparency: \nThe individual ratings, the key elements underlining the ratings \nassessments and whether the issuer participated in the rating process \nshould be publicly available on a non-selective basis, unless they are \nprivate ratings, which should be at least available to both domestic and \nforeign institutions with legitimate interest and on equivalent terms. In \naddition, the ECAI’s general procedures, methodologies and assumptions \nfor arriving at ratings should be publicly available. \n(4) Disclosure: \nAn ECAI should disclose the following information: its code of conduct; \nthe general nature of its compensation arrangements with assessed \nentities; any conflict of interest, the ECAI's compensation arrangements, \nits rating assessment methodologies, including the definition of default, \nthe time horizon, and the meaning of each rating; the actual default rates \nexperienced in each assessment category; and the transitions of the \nratings, e.g. the likelihood of AA ratings becoming A over time. A rating \nshould be disclosed as soon as practicably possible after issuance. When \ndisclosing a rating, the information should be provided in plain language, \nindicating the nature and limitation of credit ratings and the risk of unduly \nrelying on them to make investments. \n \n \n \n \n \n \n \n \n \n \n(5) Resources: \nAn ECAI should have sufficient resources to carry out high-quality credit \nassessments. These resources should allow for substantial ongoing contact \nwith senior and operational levels within the entities assessed in order to \nadd value to the credit assessments. In particular, ECAIs should assign \nanalysts with appropriate knowledge and experience to assess the \ncreditworthiness of the type of entity or obligation being rated. Such \nassessments should be based on methodologies combining qualitative and \nquantitative approaches. \n(6) Credibility: \nTo some extent, credibility is derived from the criteria above. In addition, \nthe reliance on an ECAI’s external ratings by independent parties \n(investors, insurers, trading partners) is evidence of the credibility of the \nratings of an ECAI. The credibility of an ECAI is also underpinned by the \nexistence of internal procedures to prevent the misuse of confidential \ninformation. In order to be eligible for recognition, an ECAI does not have \nto assess firms in more than one country. \n(7) Cooperation with SAMA: \nECAIs should notify SAMA of significant changes to methodologies and \nprovide access to external ratings and other relevant data in order to \nsupport initial and continued determination of eligibility.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.4": {
+      "text": "8.4 Regarding the disclosure of conflicts of interest referenced in paragraph 8.3(4) \nabove, at a minimum, the following situations and their influence on the ECAI’s \ncredit rating methodologies or credit rating actions shall be disclosed:\n \n(1) The ECAI is being paid to issue a credit rating by the rated entity or by \nthe obligor, originator, underwriter, or arranger of the rated obligation; \n(2) The ECAI is being paid by subscribers with a financial interest that could \nbe affected by a credit rating action of the ECAI; \n(3) The ECAI is being paid by rated entities, obligors, originators, \nunderwriters, arrangers, or subscribers for services other than issuing \ncredit ratings or providing access to the ECAI’s credit ratings; \n \n \n \n(4) The ECAI is providing a preliminary indication or similar indication of \ncredit quality to an entity, obligor, originator, underwriter, or arranger \nprior to being hired to determine the final credit rating for the entity, \nobligor, originator, underwriter, or arranger; and \n(5) The ECAI has a direct or indirect ownership interest in a rated entity or \nobligor, or a rated entity or obligor has a direct or indirect ownership \ninterest in the ECAI.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.5": {
+      "text": "8.5 Regarding the disclosure of an ECAI's compensation arrangements referenced in \n(4) above: \n(1) An ECAI should disclose the general nature of its compensation \narrangements with rated entities, obligors, lead underwriters, or \narrangers. \n(2) When the ECAI receives from a rated entity, obligor, originator, lead \nunderwriter, or arranger compensation unrelated to its credit rating \nservices, the ECAI should disclose such unrelated compensation as a \npercentage of total annual compensation received from such rated \nentity, obligor, lead underwriter, or arranger in the relevant credit rating \nreport or elsewhere, as appropriate. \n(3) An ECAI should disclose in the relevant credit rating report or \nelsewhere, as appropriate, if it receives 10% or more of its annual \nrevenue from a single client (e.g. a rated entity, obligor, originator, lead \nunderwriter, arranger, or subscriber, or any of their affiliates). \n \nImplementation considerations \nThe mapping of Credit Assessments by ECAIs",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.6": {
+      "text": "8.6 SAMA will be assigning eligible ECAIs’ ratings to the risk weights available \nunder the standardized risk weighting framework, i.e. deciding which rating \ncategories correspond to which risk weights.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.7": {
+      "text": "8.7 Banks can use the following mapping of ECAIs’ ratings. This mapping will be \nsubject to review by SAMA as appropriate and banks will be informed \naccordingly.\n \n \n \n \n \n \nSAMA S&P Moody's Fitch \n \nAAA Aaa AAA \n \nAA+ Aa1 AA+ \n1 \nAA Aa2 AA \nAA- Aa3 AA- \nA+ A1 A+ \n \n2 A A2 A \nA- A3 A- \nBBB+ Baa1 BBB+ \n \n3 BBB Baa2 BBB \nBBB- Baa3 BBB- \n \nBB+ Ba1 BB+ \n \nBB Ba2 BB \n \n \nBB- Ba3 BB- \n4 \nB+ B1 B+ \nB B2 B \nB- B3 B- \n \nCCC+ Caa1 CCC+ \n \nCCC Caa2 CCC \n \n \nCCC- Caa3 CCC- \n5 \nCC Ca CC \nC C C \n \nD D \n6 Unrated Unrated Unrated",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.8": {
+      "text": "8.8 Banks must use the chosen ECAIs and their ratings consistently for all types of \nexposure where they have been recognized by SAMA as an eligible ECAI, for \nboth risk-weighting and risk management purposes. Banks are not allowed to \n“cherry-pick” the ratings provided by different ECAIs and to arbitrarily change \nthe use of ECAIs.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.9": {
+      "text": "8.9 Banks must use the global rating scale provided by the ECAIs consistently for all \ntypes of exposures, the use of national rating scales is subject to mapping to the \nglobal rating.\n \n \nMultiple external ratings",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.10": {
+      "text": "8.10 If there is only one rating by an ECAI chosen by a bank for a particular exposure, \nthat rating should be used to determine the risk weight of the exposure.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.11": {
+      "text": "8.11 If there are two ratings by ECAIs chosen by a bank that map into different risk \nweights, the higher risk weight will be applied.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.12": {
+      "text": "8.12 If there are three or more ratings with different risk weights, the two ratings that \ncorrespond to the lowest risk weights should be referred to. If these give rise to \nthe same risk weight, that risk weight should be applied. If different, the higher \nrisk weight should be applied. \n \nDetermination of whether an exposure is rated: Issue-specific and issuer ratings",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.13": {
+      "text": "8.13 Where a bank invests in a particular issue that has an issue-specific rating, the risk \nweight of the exposure will be based on this rating. Where the bank’s exposure \nis not an investment in a specific rated issue, the following general principles \napply. \n(1) In circumstances where the borrower has a specific rating for an issued \ndebt – but the bank’s exposure is not an investment in this particular debt \n– a high-quality credit rating (one which maps into a risk weight lower \nthan that which applies to an unrated exposure) on that specific debt \nmay only be applied to the bank’s unrated exposure if this exposure \nranks in all respects pari passu or senior to the exposure with a rating. \nIf not, the external rating cannot be used and the unassessed exposure \nwill receive the risk weight for unrated exposures. \n \n \n(2) In circumstances where the borrower has an issuer rating, this rating \ntypically applies to senior unsecured exposures to that issuer. \nConsequently, only senior exposures to that issuer will benefit from a \nhigh-quality issuer rating. Other unassessed exposures of a highly rated \nissuer will be treated as unrated. If either the issuer or a single issue has \na low-quality rating (mapping into a risk weight equal to or higher than \nthat which applies to unrated exposures), an unassessed exposure to the \nsame counterparty that ranks pari passu or is subordinated to either the \nsenior unsecured issuer rating or the exposure with a low-quality rating \nwill be assigned the same risk weight as is applicable to the low-quality \nrating. \n(3) In circumstances where the issuer has a specific high-quality rating (one \nwhich maps into a lower risk weight) that only applies to a limited class \nof liabilities (such as a deposit rating or a counterparty risk rating), this \nmay only be used in respect of exposures that fall within that class.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.14": {
+      "text": "8.14 Whether the bank intends to rely on an issuer- or an issue-specific rating, the \nrating must take into account and reflect the entire amount of credit risk exposure \nthe bank has with regard to all payments owed to it. For example, if a bank is \nowed both principal and interest, the rating must fully take into account and \nreflect the credit risk associated with repayment of both principal and interest.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.15": {
+      "text": "8.15 In order to avoid any double-counting of credit enhancement factors, no \nsupervisory recognition of credit risk mitigation techniques will be taken into \naccount if the credit enhancement is already reflected in the issue specific rating \n(see paragraph 9.5). \n \nDomestic currency and foreign currency ratings \n \n8.16Where exposures are risk-weighted based on the rating of an equivalent exposure \n \nto that borrower, the general rule is that foreign currency ratings would be used \nfor exposures in foreign currency. Domestic currency ratings, if separate, would \n \n \nonly be used to risk-weight exposures denominated in the domestic currency[^36]. \n \nShort-term/long-term ratings \n \n8.17For risk-weighting purposes, short-term ratings are deemed to be issue-specific. \n \nThey can only be used to derive risk weights for exposures arising from the rated \nfacility. They cannot be generalized to other short-term exposures, except under \nthe conditions in paragraph 8.19. In no event can a short-term rating be used to \nsupport a risk weight for an unrated long-term exposure. Short-term ratings may \nonly be used for short-term exposures against banks and corporates. Table 13 [^37]\n \n[^38]\n below provides a framework for banks’ exposures to specific short-term \nfacilities, such as a particular issuance of commercial paper: \n \n \nRisk weight table for specific short-term ratings Table 13 \n \nExternal rating A-1/P-1 A-2/P-2 A-3/P-3 Others \nRisk weight 20% 50% 100% 150%",
+      "footnotes": {
+        "36": "However, when an exposure arises through a bank’s participation in a loan that has been extended, or has been guaranteed against convertibility and transfer risk, by certain multilateral development banks (MDBs), its convertibility and transfer risk can be considered by SAMA to be effectively mitigated. To qualify, MDBs must have preferred creditor status recognized in the market and be included in the first footnote in paragraph 7.9. In such cases, for risk- weighting purposes, the borrower’s domestic currency rating may be used instead of its foreign currency rating. In the case of a guarantee against convertibility and transfer risk, the local currency rating can be used only for the portion that has been guaranteed. The portion of the loan not benefiting from such a guarantee will be risk-weighted based on the foreign currency rating.",
+        "37": "The notations follow the methodology used by S&P and by Moody’s Investors Service. The A-1 rating of S&P includes both A-1+ and A-1–.",
+        "38": "The “others” category includes all non-prime and B or C ratings. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 59 of 349"
+      },
+      "tables": []
+    },
+    "8.18": {
+      "text": "8.18 If a short-term rated facility attracts a 50% risk-weight, unrated short-term \nexposures cannot attract a risk weight lower than 100%. If an issuer has a short- \nterm facility with an external rating that warrants a risk weight of 150%, all \nunrated exposures, whether long-term or short-term, should also receive a 150% \nrisk weight, unless the bank uses recognized credit risk mitigation techniques for\n \n \n \n \nsuch exposures.",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "A-1/P-1",
+            "A-2/P-2",
+            "A-3/P-3"
+          ],
+          [
+            "20%",
+            "50%",
+            "100%"
+          ]
+        ]
+      ]
+    },
+    "8.19": {
+      "text": "8.19 In cases where short-term ratings are available, the following interaction with the \ngeneral preferential treatment for short-term exposures to banks as described in \nparagraph 7.15 will apply: \n(1)The general preferential treatment for short-term exposures applies to \n \nall exposures to banks of up to three months original maturity when there \nis no specific short-term exposure rating. \n(2) When there is a short-term rating and such a rating maps into a risk \nweight that is more favorable (i.e. lower) or identical to that derived \nfrom the general preferential treatment, the short-term rating should be \nused for the specific exposure only. Other short-term exposures would \nbenefit from the general preferential treatment. \n(3) When a specific short-term rating for a short term exposure to a bank \nmaps into a less favorable (higher) risk weight, the general short-term \npreferential treatment for interbank exposures cannot be used. All \nunrated short-term exposures should receive the same risk weighting as \nthat implied by the specific short-term rating.",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.20": {
+      "text": "8.20 When a short-term rating is to be used, the institution making the assessment \nneeds to meet all of the eligibility criteria for recognizing ECAIs, as described in \nparagraph 8.3, in terms of its short-term ratings.\n \n \nLevel of application of the rating \n \n8.21External ratings for one entity within a corporate group cannot be used to risk- \n \nweight other entities within the same group. \n \nUse of unsolicited ratings",
+      "footnotes": {},
+      "tables": []
+    },
+    "8.22": {
+      "text": "8.22 As a general rule, banks should use solicited ratings from eligible ECAIs. Banks \nare not permitted to use unsolicited ratings.\n \n \n \n \n \n \n \n \n9.Standardized Approach: Credit Risk Mitigation",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.1": {
+      "text": "9.1 Banks use a number of techniques to mitigate the credit risks to which they are \nexposed. For example, exposures may be collateralized by first-priority claims, \nin whole or in part with cash or securities, a loan exposure may be guaranteed \nby a third party, or a bank may buy a credit derivative to offset various forms of \ncredit risk. Additionally, banks may agree to net loans owed to them against \n[^39]\ndeposits from the same counterparty.",
+      "footnotes": {
+        "39": "In this section, “counterparty” is used to denote a party to whom a bank has an on- or off-balance sheet credit exposure. That exposure may, for example, take the form of a loan of cash or securities (where the counterparty would traditionally be called the borrower), of securities posted as collateral, of a commitment or of exposure under an over-the-counter (OTC) derivatives contract. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 61 of 349"
+      },
+      "tables": []
+    },
+    "9.2": {
+      "text": "9.2 The framework set out in this chapter is applicable to banking book exposures \nthat are risk-weighted under the standardized approach.\n \n \nGeneral requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.3": {
+      "text": "9.3 No transaction in which credit risk mitigation (CRM) techniques are used shall \nreceive a higher capital requirement than an otherwise identical transaction \nwhere such techniques are not used.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.4": {
+      "text": "9.4 The requirements of chapter 19 in Pillar 3 Disclosure Requirements Framework \nmust be fulfilled for banks to obtain capital relief in respect of any CRM \ntechniques.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.5": {
+      "text": "9.5 The effects of CRM must not be double-counted. Therefore, no additional \nsupervisory recognition of CRM for regulatory capital purposes will be granted \non exposures for which the risk weight already reflects that CRM. Consistent \nwith paragraph 8.14, principal-only ratings will also not be allowed within the \nCRM framework.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.6": {
+      "text": "9.6 While the use of CRM techniques reduces or transfers credit risk, it may \nsimultaneously increase other risks (i.e. residual risks). Residual risks include \nlegal, operational, liquidity and market risks. Therefore, banks must employ \nrobust procedures and processes to control these risks, including strategy; \nconsideration of the underlying credit; valuation; policies and procedures;\n \n \n \n \nsystems; control of roll-off risks; and management of concentration risk arising \nfrom the bank’s use of CRM techniques and its interaction with the bank’s \noverall credit risk profile. Where these risks are not adequately controlled, \nSAMA may impose additional capital charges or take other supervisory actions \nin the supervisory review process.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.7": {
+      "text": "9.7 In order for CRM techniques to provide protection, the credit quality of the \ncounterparty must not have a material positive correlation with the employed \nCRM technique or with the resulting residual risks (as defined in paragraph 9.6)\n. \nFor example, securities issued by the counterparty (or by any counterparty- \nrelated entity) provide little protection as collateral and are thus ineligible.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.8": {
+      "text": "9.8 In the case where a bank has multiple CRM techniques covering a single \nexposure (e.g. a bank has both collateral and a guarantee partially covering an \nexposure), the bank must subdivide the exposure into portions covered by each \ntype of CRM technique (e.g. portion covered by collateral, portion covered by \nguarantee) and the risk-weighted assets of each portion must be calculated \nseparately. When credit protection provided by a single protection provider has \ndiffering maturities, they must be subdivided into separate protection as well.\n \n \nLegal requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.9": {
+      "text": "9.9 In order for banks to obtain capital relief for any use of CRM techniques, all \ndocumentation used in collateralized transactions, on-balance sheet netting \nagreements, guarantees and credit derivatives must be binding on all parties and \nlegally enforceable in all relevant jurisdictions. Banks must have conducted \nsufficient legal review to verify this and have a well-founded legal basis to reach \nthis conclusion, and undertake such further review as necessary to ensure \ncontinuing enforceability. \n \nGeneral treatment of maturity mismatches",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.10": {
+      "text": "9.10 For the purposes of calculating risk-weighted assets, a maturity mismatch occurs \nwhen the residual maturity of a credit protection arrangement (e.g. hedge) is less \nthan that of the underlying exposure.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.11": {
+      "text": "9.11 In the case of financial collateral, maturity mismatches are not allowed under the \nsimple approach (see paragraph 9.33).",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.12": {
+      "text": "9.12 Under the other approaches, when there is a maturity mismatch the credit \nprotection arrangement may only be recognized if the original maturity of the \narrangement is greater than or equal to one year, and its residual maturity is \ngreater than or equal to three months. In such cases, credit risk mitigation may \nbe partially recognized as detailed below in paragraph 9.13\n.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.13": {
+      "text": "9.13 When there is a maturity mismatch with recognized credit risk mitigants, the \nfollowing adjustment applies, where:\n \n \n P= value of the credit protection adjusted for maturity mismatch \n(1)a \nP = credit protection amount (e.g. collateral amount, guarantee \n(2) \namount) adjusted for any haircuts \nt = min {T, residual maturity of the credit protection arrangement \n(3) \nexpressed in years} \nT = min {five years, residual maturity of the exposure expressed in \n(4) \nyears}",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.14": {
+      "text": "9.14 The maturity of the underlying exposure and the maturity of the hedge must both \nbe defined conservatively. The effective maturity of the underlying must be \ngauged as the longest possible remaining time before the counterparty is \nscheduled to fulfil its obligation, taking into account any applicable grace period. \nFor the hedge, (embedded) options that may reduce the term of the hedge must \nbe taken into account so that the shortest possible effective maturity is used. For \nexample: where, in the case of a credit derivative, the protection seller has a call \noption, the maturity is the first call date. Likewise, if the protection buyer owns \nthe call option and has a strong incentive to call the transaction at the first call \ndate, for example because of a step-up in cost from this date on, the effective \nmaturity is the remaining time to the first call date. \n \n \n \n \n \nCurrency mismatches \n \n9.15Currency mismatches are allowed under all approaches. Under the simple \n \napproach there is no specific treatment for currency mismatches, given that a \nminimum risk weight of 20% (floor) is generally applied. Under the \ncomprehensive approach and in case of guarantees and credit derivatives, a \nspecific adjustment for currency mismatches is prescribed in paragraph 9.51 and",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.81": {
+      "text": "9.81 Where the credit protection is denominated in a currency different from that in \nwhich the exposure is denominated – i.e. there is a currency mismatch – the \namount of the exposure deemed to be protected must be reduced by the \napplication of a haircut H, using the formula that follows, where: \nFX\n(1) G = nominal amount of the credit protection \n(2) H= haircut appropriate for currency mismatch between the credit \nFX \nprotection and underlying obligation",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.16": {
+      "text": "9.16 A collateralized transaction is one in which:\n \nbanks have a credit exposure or a potential credit exposure; and \n(1) \n that credit exposure or potential credit exposure is hedged in whole or in \n(2)\npart by collateral posted by a counterparty or by a third party on behalf of \nthe counterparty.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.17": {
+      "text": "9.17 Where banks take eligible financial collateral, they may reduce their regulatory \ncapital requirements through the application of CRM techniques[^40].",
+      "footnotes": {
+        "40": "Alternatively, banks with appropriate supervisory approval may instead use the internal models method in the Counterparty Credit Risk (CCR) Framework to determine the exposure amount, taking into account collateral. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 64 of 349"
+      },
+      "tables": []
+    },
+    "9.18": {
+      "text": "9.18 Banks may opt for either: \n The simple approach, which replaces the risk weight of the counterparty \n(1)\nwith the risk weight of the collateral for the collateralized portion of \nthe exposure (generally subject to a 20% floor); or \n The comprehensive approach, which allows a more precise offset of \n(2)\ncollateral against exposures, by effectively reducing the exposure \namount by a volatility-adjusted value ascribed to the collateral.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.19": {
+      "text": "9.19 Detailed operational requirements for both the simple approach and \ncomprehensive approach are given in paragraph 9.32 to 9.64Banks may operate \n. \nunder either, but not both, approaches in the banking book.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.20": {
+      "text": "9.20 For collateralized OTC transactions, exchange traded derivatives and long \nsettlement transactions, banks may use the standardized approach for \ncounterparty credit risk (chapter 6) or the internal models method (chapter 7) in \nThe Counterparty Credit Risk (CCR) Framework to calculate the exposure \namount, in accordance with paragraphs 9.65 to 9.66\n. \n \nOn-balance sheet netting",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.21": {
+      "text": "9.21 Where banks have legally enforceable netting arrangements for loans and \ndeposits that meet the conditions in 9.67 and 9.68 they may calculate capital \nrequirements on the basis of net credit exposures as set out in that paragraph. \n \nGuarantees and credit derivatives \n \n9.22Where guarantees or credit derivatives fulfil the minimum operational \n \nconditions set out in paragraphs 9.69 to 9.71, banks may take account of the \ncredit protection offered by such credit risk mitigation techniques in calculating \ncapital requirements.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.23": {
+      "text": "9.23 A range of guarantors and protection providers are recognized and a substitution \napproach applies for capital requirement calculations. Only guarantees issued \nby or protection provided by entities with a lower risk weight than the \ncounterparty lead to reduced capital charges for the guaranteed exposure, since \nthe protected portion of the counterparty exposure is assigned the risk weight of \nthe guarantor or protection provider, whereas the uncovered portion retains the \nrisk weight of the underlying counterparty.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.24": {
+      "text": "9.24 Detailed conditions and operational requirements for guarantees and credit \nderivatives are given in paragraphs 9.69 to 9.83 \n.\n \n \n \n \n \n \n \n \n \nCollateralized transactions \nGeneral requirements \n9.25Before capital relief is granted in respect of any form of collateral, the standards \n \nset out below in paragraphs 9.269.31 must be met, irrespective of whether the \nsimple or the comprehensive approach is used. Banks that lend securities or post \ncollateral must calculate capital requirements for both of the following: (i) the \ncredit risk or market risk of the securities, if this remains with the bank; and (ii) \nthe counterparty credit risk arising from the risk that the borrower of the \nsecurities may default.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.26": {
+      "text": "9.26 The legal mechanism by which collateral is pledged or transferred must ensure \nthat the bank has the right to liquidate or take legal possession of it, in a timely \nmanner, in the event of the default, insolvency or bankruptcy (or one or more \notherwise-defined credit events set out in the transaction documentation) of the \ncounterparty (and, where applicable, of the custodian holding the collateral). \nAdditionally, banks must take all steps necessary to fulfil those requirements \nunder the law applicable to the bank’s interest in the collateral for obtaining and \nmaintaining an enforceable security interest, e.g. by registering it with a \nregistrar, or for exercising a right to net or set off in relation to the title transfer \nof the collateral.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.27": {
+      "text": "9.27 Banks must have clear and robust procedures for the timely liquidation of \ncollateral to ensure that any legal conditions required for declaring the default \nof the counterparty and liquidating the collateral are observed, and that collateral \ncan be liquidated promptly.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.28": {
+      "text": "9.28 Banks must ensure that sufficient resources are devoted to the orderly operation \nof margin agreements with OTC derivative and securities-financing \ncounterparties, as measured by the timeliness and accuracy of its outgoing \nmargin calls and response time to incoming margin calls. Banks must have \ncollateral risk management policies in place to control, monitor and report: \n(1) The risk to which margin agreements expose them (such as the volatility \nand liquidity of the securities exchanged as collateral); \n(2) The concentration risk to particular types of collateral; \n \n \n \n \n \n(3) The reuse of collateral (both cash and non-cash) including the potential \nliquidity shortfalls resulting from the reuse of collateral received from \ncounterparties; and \n(4) The surrender of rights on collateral posted to counterparties.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.29": {
+      "text": "9.29 Where the collateral is held by a custodian, banks must take reasonable steps to \nensure that the custodian segregates the collateral from its own assets.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.30": {
+      "text": "9.30 A capital requirement must be applied on both sides of a transaction. For \nexample, both repos and reverse repos will be subject to capital requirements. \nLikewise, both sides of a securities lending and borrowing transaction will be \nsubject to explicit capital charges, as will the posting of securities in connection \nwith derivatives exposures or with any other borrowing transaction.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.31": {
+      "text": "9.31 Where a bank, acting as an agent, arranges a repo-style transaction (i.e. \nrepurchase / reverse repurchase and securities lending/borrowing transactions) \nbetween a customer and a third party and provides a guarantee to the customer \nthat the third party will perform on its obligations, then the risk to the bank is the \nsame as if the bank had entered into the transaction as a principal. In such \ncircumstances, a bank must calculate capital requirements as if it were itself \nthe principal. \n \nThe simple approach: general requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.32": {
+      "text": "9.32 Under the simple approach, the risk weight of the counterparty is replaced by \nthe risk weight of the collateral instrument collateralizing or partially \ncollateralizing the exposure.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.33": {
+      "text": "9.33 For collateral to be recognized in the simple approach, it must be pledged for at \nleast the life of the exposure and it must be marked to market and revalued with \na minimum frequency of six months. Those portions of exposures collateralized \nby the market value of recognized collateral receive the risk weight applicable \nto the collateral instrument. The risk weight on the collateralized portion is \nsubject to a floor of 20% except under the conditions specified in paragraphs",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.36": {
+      "text": "9.36 Repo-style transactions that fulfil all of the following conditions are exempted \nfrom the risk-weight floor under the simple approach:\n \n(1) Both the exposure and the collateral are cash or a sovereign security or \nPSE security qualifying for a 0% risk weight under the standardized \napproach (chapter 0); \n(2) Both the exposure and the collateral are denominated in the same \ncurrency; \n(3) Either the transaction is overnight or both the exposure and the collateral \nare marked to market daily and are subject to daily remargining; \n(4) Following a counterparty’s failure to remargin, the time that is required \nbetween the last mark-to-market before the failure to remargin and the \nliquidation of the collateral is considered to be no more than four \n \n \n \nBusiness days; \n(5) The transaction is settled across a settlement system proven for that type \nof transaction; \n(6) The documentation covering the agreement is standard market \ndocumentation for repo-style transactions in the securities concerned; \n(7) The transaction is governed by documentation specifying that if the \ncounterparty fails to satisfy an obligation to deliver cash or securities or \nto deliver margin or otherwise defaults, then the transaction is \nimmediately terminable; and \n(8) Upon any default event, regardless of whether the counterparty is \ninsolvent or bankrupt, the bank has the unfettered, legally enforceable \nright to immediately seize and liquidate the collateral for its benefit.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.34": {
+      "text": "9.34 The following collateral instruments are eligible for recognition in the simple \napproach:\n \n(1) Cash (as well as certificates of deposit or comparable instruments \nissued by the lending bank) on deposit with the bank that is incurring \n[^4142]\nthe counterparty exposure . \n(2)Gold. \n \n(3) Debt securities that meet the following conditions: \n(a) Debt securities rated[^43] by a recognized external credit assessment \ninstitution (ECAI) where these are either: \n(i) At least BB– when issued by sovereigns or public sector entities \n(PSEs) that are treated as sovereigns; or \n(ii) At least BBB– when issued by other entities (including banks and \nother prudentially regulated financial institutions); or \n(iii) At least A-3/P-3 for short-term debt instruments. \n(b) Debt securities not rated by a recognized ECAI where these are: \n(i) Issued by a bank; and \n(ii) Listed on a recognized exchange; and \n(iii) Classified as senior debt; and \n(iv) All rated issues of the same seniority by the issuing bank are rated \nat least BBB– or a-3/p-3 by a recognized ECAI; and \n(v) The bank holding the securities as collateral has no information to \n \n \n \nsuggest that the issue justifies a rating below BBB– or A-3/P-3 (as \napplicable); and \n(vi) SAMA is sufficiently confident that the market liquidity of the \nsecurity is adequate. \n(4) Equities (including convertible bonds) that are included in a main \nindex. \n(5) Undertakings for Collective Investments in Transferable Securities \n(UCITS)and mutual funds where: \n(a) a price for the units is publicly quoted daily; and \n(b) the UCITS/mutual fund is limited to investing in the instruments \nlisted in this paragraph. [^44]",
+      "footnotes": {
+        "43": "When debt securities that do not have an issue specific rating are issued by a rated sovereign, banks may treat the sovereign issuer rating as the rating of the debt security. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 68 of 349",
+        "44": "However, the use or potential use by a UCITS/mutual fund of derivative instruments solely to hedge investments listed in this paragraph and paragraph 9.45 shall not prevent units in that UCITS/mutual fund from being eligible financial collateral. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 69 of 349",
+        "41": "Cash-funded credit-linked notes issued by the bank against exposures in the banking book that fulfil the criteria for credit derivatives are treated as cash-collateralized transactions.",
+        "42": "When cash on deposit, certificates of deposit or comparable instruments issued by the lending bank are held as collateral at a third- party bank in a non-custodial arrangement, if they are openly pledged/assigned to the lending bank and if the pledge/assignment is unconditional and irrevocable, the exposure amount covered by the collateral (after any necessary haircuts for currency risk) receives the risk weight of the third-party bank."
+      },
+      "tables": []
+    },
+    "9.35": {
+      "text": "9.35 Resecuritizations as defined in the securitization chapters 18 to 23 are not \neligible financial collateral.\n \n \nSimple approach: exemptions to the risk-weight floor",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.37": {
+      "text": "9.37 and that satisfy the conditions in paragraph 9.36, a haircut of zero can be \napplied.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.38": {
+      "text": "9.38 Repo transactions that fulfil the requirement in paragraph 9.36 receive a 10% \nrisk weight, as an exemption to the risk weight floor described in paragraph 9.33. \nIf the counterparty to the transaction is a core market participant, banks may \napply a risk weight of 0% to the transaction.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.39": {
+      "text": "9.39 The 20% floor for the risk weight on a collateralized transaction does not apply \nand a 0% risk weight may be applied to the collateralized portion of the exposure \nwhere the exposure and the collateral are denominated in the same currency, and \neither: \n The collateral is cash on deposit as defined in paragraph 9.34(1); or \n(1)\n The collateral is in the form of sovereign/PSE securities eligible for a 0% \n(2)\nrisk weight, and its market value has been discounted by 20%. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe comprehensive approach: general requirements",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.40": {
+      "text": "9.40 In the comprehensive approach, when taking collateral, banks must calculate \ntheir adjusted exposure to a counterparty in order to take account of the risk \nmitigating effect of that collateral. Banks must use the applicable supervisory \nhaircuts to adjust both the amount of the exposure to the counterparty and the \nvalue of any collateral received in support of that counterparty to take account \n[^45]\nof possible future fluctuations in the value of either, as occasioned by market \nmovements. Unless either side of the transaction is cash or a zero haircut is \napplied, the volatility-adjusted exposure amount is higher than the nominal \nexposure and the volatility-adjusted collateral value is lower than the nominal \ncollateral value. \n9.41The size of the haircuts that banks must use depends on the prescribed holding \n \nperiod for the transaction. For the purposes of chapter 9, the holding period is \nthe period of time over which exposure or collateral values are assumed to move \nbefore the bank can close out the transaction. The supervisory prescribed \nminimum holding period is used as the basis for the calculation of the standard \nsupervisory haircuts.",
+      "footnotes": {
+        "45": "Exposure amounts may vary where, for example, securities are being lent. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 71 of 349"
+      },
+      "tables": []
+    },
+    "9.42": {
+      "text": "9.42 The holding period, and thus the size of the individual haircuts depends on the \ntype of instrument, type of transaction, residual maturity and the frequency of \nmarking to market and remargining as provided in paragraphs 9.49 to 9.50. For \nexample, repo-style transactions subject to daily marking-to-market and to daily \nremargining will receive a haircut based on a 5-business day holding period and \nsecured lending transactions with daily mark-to-market and no remargining \nclauses will receive a haircut based on a 20-business day holding period. \nHaircuts must be scaled up using the square root of time formula depending on \nthe actual frequency of remargining or marking to market. This formula is \nincluded in paragraph 9.58.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.43": {
+      "text": "9.43 Additionally, where the exposure and collateral are held in different currencies, \nbanks must apply an additional haircut to the volatility-adjusted collateral \namount in accordance with paragraphs 9.51 and 9.81 to 0 to take account of \npossible future fluctuations in exchange rates.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.44": {
+      "text": "9.44 The effect of master netting agreements covering securities financing \ntransactions (SFTs) can be recognized for the calculation of capital requirements \nsubject to the conditions and requirements in paragraphs 9.61 to 9.64 . Where \nSFTs are subject to a master netting agreement whether they are held in the \nbanking book or trading book, a bank may choose not to recognize the netting \neffects in calculating capital. In that case, each transaction will be subject to a \ncapital charge as if there were no master netting agreement. \n \nThe comprehensive approach: eligible financial collateral",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.45": {
+      "text": "9.45 The following collateral instruments are eligible for recognition in the \ncomprehensive approach:\n \n \n(1) All of the instruments listed in paragraph 9.34; \n(2) Equities and convertible bonds that are not included in a main index but \nwhich are listed on a recognized security exchange; \n(3) UCITS/mutual funds which include the instruments in point (2). \n \nThe comprehensive approach: calculation of capital requirement",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.46": {
+      "text": "9.46 For a collateralized transaction, the exposure amount after risk mitigation is \ncalculated using the formula that follows, where: \n* \n(1) E= the exposure value after risk mitigation \n(2) E = current value of the exposure \n(3) H= haircut appropriate to the exposure \ne \n(4) C = the current value of the collateral received \n \n \n \n \n \n \n(5) H= haircut appropriate to the collateral \nc \n(6)H= haircut appropriate for currency mismatch between the \n \nfx \ncollateral and exposure",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.47": {
+      "text": "9.47 In the case of maturity mismatches, the value of the collateral received \n(collateral amount) must be adjusted in accordance with paragraphs 9.10 to 0 \n.",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "Residual\nmaturity",
+            "Sovereigns",
+            "Other\nissuers"
+          ],
+          [
+            "< 1 year",
+            "0.5",
+            "1"
+          ],
+          [
+            ">1 year,\n< 3years",
+            "2",
+            "3"
+          ],
+          [
+            ">3 years,\n< 5years",
+            null,
+            "4"
+          ],
+          [
+            ">5 years,\n< 10years",
+            "4",
+            "6"
+          ]
+        ]
+      ]
+    },
+    "9.48": {
+      "text": "9.48 The exposure amount after risk mitigation (E*) must be multiplied by the risk \nweight of the counterparty to obtain the risk-weighted asset amount for the \ncollateralized transaction.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.49": {
+      "text": "9.49 The following supervisory haircuts in table 14 below (assuming daily mark-to- \nmarket, daily remargining and a 10 business day holding period), expressed as \npercentages, must be used to determine the haircuts appropriate to the collateral \n(H) and to the exposure (H):\n \nce\n \nSupervisory haircuts for comprehensive approach Table 14 \n \nIssue rating for Securitization \nResidual Sovereigns Other \ndebt securities exposures \nmaturity issuers \n \n< 1 year 0.5 1 2 \n \n \n>1 year, 2 3 8 \n \n< 3years \nAAA to AA–/A-1 \n>3 years, 4 \n< 5years \n>5 years, 4 6 16 \n< 10years \n \n \n \n \n \n \n> 10 years \n12 \n < 1 year 1 2 4 \n \n \n>1 year, 3 4 12 \nA+ to BBB–/ \n< 3years \nA-2/A-3/P-3 \nand unrated bank \n>3 years, 6 \nsecurities \n< 5years \n9.34(3)(b) \n12 \n>5 years, 6 24 \n< 10years \n> 10 years 20 \nBB+ to BB– All 15 Not Not eligible \neligible \nMain index equities 20 \n(including convertible \nbonds) \nand gold \nOther equities and 30 \nconvertible bonds listed on \na \nrecognized exchange \nUCITS/mutual funds Highest haircut applicable to any security in \nwhich the fund can invest, unless the bank can \napply the look-through approach (LTA) for \nequity investments in funds, in which case the \nbank may use a weighted average of haircuts \napplicable to instruments held by the fund. \nCash in the same currency 0",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.50": {
+      "text": "9.50 In paragraph 9.49 :\n \n(1) “Sovereigns” includes: PSEs that are treated as sovereigns by SAMA, as \nwell as multilateral development banks receiving a 0% risk weight. \n(2) “Other issuers” includes: PSEs that are not treated as sovereigns by SAMA. \n(3) “Securitization exposures” refers to exposures that meet the definition set \nforth in the securitization framework. \n(4) “Cash in the same currency” refers to eligible cash collateral specified in \nparagraph 9.34(1).",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.51": {
+      "text": "9.51 The haircut for currency risk (H) where exposure and collateral are \nfx\ndenominated in different currencies is 8% (also based on a 10-business day \nholding period and daily mark-to-market).",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.52": {
+      "text": "9.52 For SFTs and secured lending transactions, a haircut adjustment may need to be \napplied in accordance with paragraphs 9.55 to 9.58.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.53": {
+      "text": "9.53 For SFTs in which the bank lends, or posts as collateral, non-eligible \ninstruments, the haircut to be applied on the exposure must be 30%. For \ntransactions in which the bank borrows non-eligible instruments, credit risk \nmitigation may not be applied.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.54": {
+      "text": "9.54 Where the collateral is a basket of assets, the haircut (H) on the basket must be \ncalculated using the formula that follows, where:\n \n(1) ais the weight of the asset (as measured by units of currency) \ni \nin the basket \n(2) Hthe haircut applicable to that asset\n \ni \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe comprehensive approach: adjustment for different holding periods and non- \ndaily mark-to-market or remargining",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.55": {
+      "text": "9.55 For some transactions, depending on the nature and frequency of the revaluation \nand remargining provisions, different holding periods and thus different haircuts \nmust be applied. The framework for collateral haircuts distinguishes between \nrepo-style transactions (i.e. repo/reverse repos and securities \nlending/borrowing),” other capital markets-driven transactions” (i.e. OTC \nderivatives transactions and margin lending) and secured lending. In capital- \nmarket-driven transactions and repo-style transactions, the documentation \ncontains remargining clauses; in secured lending transactions, it generally does \nnot. \n9.56The minimum holding period for various products is summarized in table 15 \n \nbelow: \n \nMinimum holding periods Table 15 \nSummary of minimum holding periods and remargining/revaluation periods \n \nMinimum \n \nTransaction type Minimum holding period remargining \n/revaluation period \nRepo-style transaction five business days daily remargining \nOther capital \n10 business days daily remargining \nmarket transactions \nSecured lending 20 business days daily revaluation",
+      "footnotes": {},
+      "tables": [
+        [
+          [
+            "Minimum holding period"
+          ],
+          [
+            "five business days"
+          ],
+          [
+            "10 business days"
+          ],
+          [
+            "20 business days"
+          ]
+        ]
+      ]
+    },
+    "9.57": {
+      "text": "9.57 Regarding the minimum holding periods set out in paragraph 9.56, if a netting \nset includes both repo-style and other capital market transactions, the minimum \nholding period of ten business days must be used. Furthermore, a higher \nminimum holding period must be used in the following cases: \n(1) For all netting sets where the number of trades exceeds 5,000 at any point \nduring a quarter, a 20-business day minimum holding period for the \nfollowing quarter must be used. \n(2) For netting sets containing one or more trades involving illiquid collateral, \na minimum holding period of 20 business days must be used. \"Illiquid \ncollateral\" must be determined in the context of stressed market \nconditions and will be characterized by the absence of continuously active \nmarkets where a counterparty would, within two or fewer days, obtain \nmultiple price quotations that would not move the market or represent a \nprice reflecting a market discount. Examples of situations where trades \nare deemed illiquid for this purpose include, but are not limited to, trades \nthat are not marked daily and trades that are subject to specific accounting \ntreatment for valuation purposes (e.g. repo-style transactions referencing \nsecurities whose fair value is determined by models with inputs that are \nnot observed in the market). \n(3) If a bank has experienced more than two margin call disputes on a \nparticular netting set over the previous two quarters that have lasted longer \nthan the bank's estimate of the margin period of risk (as defined in The \nCounterparty Credit Risk (CCR) Framework), then for the subsequent \ntwo quarters the bank must use a minimum holding period that is twice \nthe level that would apply excluding the application of this sub-paragraph.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.58": {
+      "text": "9.58 When the frequency of remargining or revaluation is longer than the minimum, \nthe minimum haircut numbers must be scaled up depending on the actual \nnumber of business days between remargining or revaluation. The 10-business \nday haircuts provided in paragraphs 9.49 to 9.50 are the default haircuts and \nthesehaircuts must be scaled up or down using the formula below, where:\n \n H = haircut \n(1)\n(2) H= 10-business day haircut for instrument \n10 \n T= minimum holding period for the type of transaction. \n(3)M \nN= actual number of business days between remargining for capital \n(4) R \nmarket transactions or revaluation for secured transactions \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe comprehensive approach: exemptions under the comprehensive approach \nfor qualifying repo-style transactions involving core market participants",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.59": {
+      "text": "9.59 For repo-style transactions with core market participants as defined in paragraph",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.60": {
+      "text": "9.60 Where, under the comprehensive approach, a foreign supervisor applies a \nspecific carve-out to repo-style transactions in securities issued by its domestic \ngovernment, banks are allowed to adopt the same approach to the same \ntransactions. \n \nThe comprehensive approach: treatment under the comprehensive approach of \nSFTs covered by master netting agreements",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.61": {
+      "text": "9.61 The effects of bilateral netting agreements covering SFTs may be recognized on \na counterparty-by-counterparty basis if the agreements are legally enforceable \nin each relevant jurisdiction upon the occurrence of an event of default and \nregardless of whether the counterparty is insolvent or bankrupt. In addition, \nnetting agreements must: \n(1) Provide the non-defaulting party the right to terminate and close out in a \ntimely manner all transactions under the agreement upon an event of \ndefault, including in the event of insolvency or bankruptcy of the \ncounterparty; \n(2) Provide for the netting of gains and losses on transactions (including the \nvalue of any collateral) terminated and closed out under it so that a single \nnet amount is owed by one party to the other; \n(3) Allow for the prompt liquidation or set-off of collateral upon the event \nof default; and \n(4) Be, together with the rights arising from the provisions required in (1) to \n(3) above, legally enforceable in each relevant jurisdiction upon the \noccurrence of an event of default and regardless of the counterparty’s \ninsolvency or bankruptcy.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.62": {
+      "text": "9.62 Netting across positions in the banking and trading book may only be recognized \nwhen the netted transactions fulfil the following conditions: \n(1) All transactions are marked to market daily[^46]; and \n(2) The collateral instruments used in the transactions are \nrecognized as eligible financial collateral in the banking book.",
+      "footnotes": {
+        "46": "The holding period for the haircuts depends, as in other repo-style transactions, on the frequency of margining. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 80 of 349"
+      },
+      "tables": []
+    },
+    "9.63": {
+      "text": "9.63 The formula in paragraph 9.64 will be used to calculate the counterparty credit \nrisk capital requirements for SFTs with netting agreements. This formula \nincludes the current exposure, an amount for systematic exposure of the \nsecurities based on the net exposure, an amount for the idiosyncratic exposure \nof the securities based on the gross exposure, and an amount for currency \nmismatch. All other rules regarding the calculation of haircuts under the \ncomprehensive approach stated in paragraphs 9.40 to 9.60 equivalently apply \nfor banks using bilateral netting agreements for SFTs.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.64": {
+      "text": "9.64 Banks using standard supervisory haircuts for SFTs conducted under a master \nnetting agreement must use the formula that follows to calculate their exposure \namount, where: \n* \n(1) Eis the exposure value of the netting set after risk mitigation \n(2) Eis the current value of all cash and securities lent, sold with an \ni \nagreement to repurchase or otherwise posted to the counterparty \nunder the netting agreement \n(3) Cis the current value of all cash and securities borrowed, purchased \nj \nwith an agreement to resell or otherwise held by the bank under the \nnetting agreement \n(4) \n \n(5) \n \n \n \n \n \n \n(6) Eis the net current value of each security issuance under the netting \ns \nset(always a positive value) \n(7) His the haircut appropriate to Eas described in tables of \ns s \nparagraphs 9.49 to 9.50, as applicable \n(a) Hhas a positive sign if the security is lent, sold with an agreement \ns \nto repurchased, or transacted in manner similar to either securities \nlending or a repurchase agreement \n(b) Hhas a negative sign if the security is borrowed, purchased with an \ns \nagreement to resell, or transacted in a manner similar to either a \nsecurities borrowing or reverse repurchase agreement \n(8) N is the number of security issues contained in the netting set \n(except that issuances where the value Es is less than one tenth of \nthe value of the largest Es in the netting set are not included the \ncount) \n(9) Eis the absolute value of the net position in each currency fx \nfx \ndifferent from the settlement currency \n(10) His the haircut appropriate for currency mismatch of currency fx \nfx \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCollateralized OTC derivatives, exchange traded derivatives and long settlement \ntransactions",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.65": {
+      "text": "9.65 Under the standardized approach for Counterparty Credit Risk Framework (SA- \nCCR), the calculation of the counterparty credit risk charge for an individual \ncontract will be calculated using the following formula, where: \n(1) Alpha = 1.4 \n(2)RC = the replacement cost calculated according to paragraphs 6.5 to",
+      "footnotes": {},
+      "tables": []
+    },
+    "6.22": {
+      "text": "6.22 in The Counterparty Credit Risk (CCR) Framework. \n(3)PFE = the amount for potential future exposure calculated according to \n \nparagraphs 6.23 to 6.76 in the CCR framework. \n \n \n9.66As an alternative to the SA-CCR for the calculation of the counterparty credit \n \nrisk charge, banks may also use the internal models method as set out in chapter \n7 of the Counterparty Credit Risk (CCR) Framework, subject to SAMA’s \napproval.\n \n \nOn-balance sheet netting",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.67": {
+      "text": "9.67 A bank may use the net exposure of loans and deposits as the basis for its capital \nadequacy calculation in accordance with the formula in paragraph 9.46, when \nthe bank: \n(1) Has a well-founded legal basis for concluding that the netting or \noffsetting agreement is enforceable in each relevant jurisdiction \nregardless of whether the counterparty is insolvent or bankrupt; \n(2) Is able at any time to determine those assets and liabilities with the \nsame counterparty that are subject to the netting agreement; \n(3) Monitors and controls its roll-off risks; and \n(4) Monitors and controls the relevant exposures on a net basis,",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.68": {
+      "text": "9.68 When calculating the net exposure described in the paragraph above, assets \n(loans) are treated as exposure and liabilities (deposits) as collateral. The haircuts \nare zero except when a currency mismatch exists. A 10-business day holding \nperiod applies when daily mark-to-market is conducted. For on-balance sheet \nnetting, the requirements in paragraphs 9.49, 9.58 and 9.10 to 0 must be applied.\n \n \n \nGuarantees and credit derivatives \nOperational requirements for guarantees and credit derivatives",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.69": {
+      "text": "9.69 If conditions set below are met, banks can substitute the risk weight of the \ncounterparty with the risk weight of the guarantor.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.70": {
+      "text": "9.70 A guarantee (counter-guarantee) or credit derivative must satisfy the following \nrequirements:\n \n(1) it represents a direct claim on the protection provider; \n(2) it is explicitly referenced to specific exposures or a pool of exposures, \nso that the extent of the cover is clearly defined and incontrovertible; \n(3) other than non-payment by a protection purchaser of money due in \nrespect of the credit protection contract it is irrevocable; \n(4) there is no clause in the contract that would allow the protection \nprovider unilaterally to cancel the credit cover, change the maturity \nagreed ex post, or that would increase the effective cost of cover as a \nresult of deteriorating credit quality in the hedged exposure; \n(5)it must be unconditional; there should be no clause in the protection \n \ncontract outside the direct control of the bank that could prevent the \nprotection provider from being obliged to pay out in a timely manner in \nthe event that the underlying counterparty fails to make the \npayment(s) due.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.71": {
+      "text": "9.71 In the case of maturity mismatches, the amount of credit protection that is \nprovided must be adjusted in accordance with paragraphs 9.10 to 0.\n \n \n \n \n \n \n \n \nSpecific operational requirements for guarantees",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.72": {
+      "text": "9.72 In addition to the legal certainty requirements in paragraph 9.9, in order for a \nguarantee to be recognized, the following requirements must be satisfied:\n \n(1) On the qualifying default/non-payment of the counterparty, the bank \nmay in a timely manner pursue the guarantor for any monies \noutstanding under the documentation governing the transaction. The \nguarantor may make one lump sum payment of all monies under such \ndocumentation to the bank, or the guarantor may assume the future \npayment obligations of the counterparty covered by the guarantee. The \nbank must have the right to receive any such payments from the \nguarantor without first having to take legal action in order to pursue \nthe counterparty for payment. \n(2) The guarantee is an explicitly documented obligation assumed by the \nguarantor. \n(3) Except as noted in the following sentence, the guarantee covers all \ntypes of payments the underlying counterparty is expected to make \nunder the documentation governing the transaction, for example \nnotional amount, margin payments, etc. Where a guarantee covers \npayment of principal only, interests and other uncovered payments \nmust be treated as an unsecured amount in accordance with the rules \nfor proportional cover described in paragraph 9.79. \n \nSpecific operational requirements for credit derivatives",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.73": {
+      "text": "9.73 In addition to the legal certainty requirements in paragraph 9.9, in order for a \ncredit derivative contract to be recognized, the following requirements must be \nsatisfied: \n(1) The credit events specified by the contracting parties must at a \nminimum cover: \n(a) failure to pay the amounts due under terms of the underlying \nobligation that are in effect at the time of such failure (with a \ngrace period that is closely in line with the grace period \nin the underlying obligation); \n \n \n(b) bankruptcy, insolvency or inability of the obligor to pay its debts, \nor its failure or admission in writing of its inability generally to \npay its debts as they become due, and analogous events; and \n(c)restructuring[^47] of the underlying obligation involving forgiveness \n \nor postponement of principal, interest or fees that results in a \ncredit loss event (i.e. write-off, specific provision or other similar \ndebit to the profit and loss account). \n(2) If the credit derivative covers obligations that do not include the \nunderlying obligation, point (7) below governs whether the asset \nmismatch is permissible. \n(3) The credit derivative shall not terminate prior to expiration of any grace \nperiod required for a default on the underlying obligation to occur as a \nresult of a failure to pay. In the case of a maturity mismatch, the \nprovisions of paragraphs 9.10 to 0 must be applied. \n(4) Credit derivatives allowing for cash settlement are recognized for \ncapital purposes insofar as a robust valuation process is in place in order \nto estimate loss reliably. There must be a clearly specified period for \nobtaining post- credit-event valuations of the underlying obligation. If \nthe reference obligation specified in the credit derivative for purposes \nof cash settlement is different from the underlying obligation, section \n(7) below governs whether the asset mismatch is permissible. \n \n \n \n \n \n \n \n \n \n \n \n \n(5) If the protection purchaser’s right/ability to transfer the underlying \nobligation to the protection provider is required for settlement, the terms \nof the underlying obligation must provide that any required consent to \nsuch transfer may not be unreasonably withheld. \n(6) The identity of the parties responsible for determining whether a credit \nevent has occurred must be clearly defined. This determination must \nnot be the sole responsibility of the protection seller. The protection \nbuyer must have the right/ability to inform the protection provider of \nthe occurrence of a credit event. \n(7) A mismatch between the underlying obligation and the reference \nobligation under the credit derivative (i.e. the obligation used for \npurposes of determining cash settlement value or the deliverable \nobligation) is permissible if: \n(a) The reference obligation ranks pari passu with or is junior to the \nunderlying obligation; and \n(b) The underlying obligation and reference obligation share the \nsame obligor (i.e. The same legal entity) and legally enforceable \ncross-default or cross-acceleration clauses are in place. \n(8) A mismatch between the underlying obligation and the obligation used \nfor purposes of determining whether a credit event has occurred is \npermissible if: \n(a) The latter obligation ranks pari passu with or is junior to the \nunderlying obligation; and \n(b) The underlying obligation and reference obligation share the \nsame obligor (i.e. The same legal entity) and legally enforceable \ncross-default or cross-acceleration clauses are in place.",
+      "footnotes": {
+        "47": "When hedging corporate exposures, this particular credit event is not required to be specified provided that: (1) a 100% vote is needed to amend maturity, principal, coupon, currency or seniority status of the underlying corporate exposure; and (2) the legal domicile in which the corporate exposure is governed has a well-established bankruptcy code that allows for a company to reorganize/restructure and provides for an orderly settlement of creditor claims. If these conditions are not met, then the treatment in paragraph 9.74 may be eligible. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 85 of 349"
+      },
+      "tables": []
+    },
+    "9.74": {
+      "text": "9.74 When the restructuring of the underlying obligation is not covered by the credit \nderivative, but the other requirements in paragraph 9.73 are met, partial \nrecognition of the credit derivative will be allowed. If the amount of the credit \nderivative is less than or equal to the amount of the underlying obligation, 60% \nof the amount of the hedge can be recognized as covered. If the amount of the \ncredit derivative is larger than that of the underlying obligation, then the amount \nof eligible hedge is capped at 60% of the amount of the underlying obligation.\n \n \nRange of eligible guarantors (counter-guarantors)/protection providers and \ncredit derivatives \n \n9.75Credit protection given by the following entities can be recognized when they \n \nhave a lower risk weight than the counterparty: \n[^48]\n(1) Sovereign entities, PSEs, multilateral development banks (MDBs), \nbanks, securities firms and other prudentially regulated financial \n[^49]\ninstitutions with a lower risk weight than the counterparty; \n(2) Other entities that are externally rated except when credit protection is \nprovided to a securitization exposure. This would include credit \nprotection provided by a parent, subsidiary and affiliate companies \nwhen they have a lower risk weight than the obligor; \n(3) When credit protection is provided to a securitization exposure, other \nentities that currently are externally rated BBB– or better and that were \nexternally rated A– or better at the time the credit protection was \nprovided. This would include credit protection provided by parent, \nsubsidiary and affiliate companies when they have a lower risk weight \nthan the obligor.",
+      "footnotes": {
+        "48": "This includes the Bank for International Settlements, the International Monetary Fund, the European Central Bank, the European Union, the European Stability Mechanism and the European Financial Stability Facility, as well as MDBs eligible for a 0% risk weight as defined in paragraph 7.9.",
+        "49": "A prudentially regulated financial institution is defined as: a legal entity supervised by a regulator that imposes prudential requirements consistent with international norms or a legal entity (parent company or subsidiary) included in a consolidated group where any substantial legal entity in the consolidated group is supervised by a regulator that imposes prudential requirements consistent with international norms. These include, but are not limited to, prudentially regulated insurance companies, broker/dealers, thrifts and futures commission merchants, and qualifying central counterparties as defined in chapter 8 of the Credit Counterparty Risk (CCR) framework. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 87 of 349"
+      },
+      "tables": []
+    },
+    "9.76": {
+      "text": "9.76 Only credit default swaps and total return swaps that provide credit protection \n[^50]\nequivalent to guarantees are eligible for recognition. The following exception \napplies: where a bank buys credit protection through a total return swap and \nrecords the net payments received on the swap as net income, but does not record \noffsetting deterioration in the value of the asset that is protected (either through \nreductions in fair value or by an addition to reserves), the credit protection will \nnot be recognized.",
+      "footnotes": {
+        "50": "Cash-funded credit-linked notes issued by the bank against exposures in the banking book that fulfil all minimum requirements for credit derivatives are treated as cash-collateralized transactions. However, in this case the limitations regarding the protection provider as set out in paragraph 9.75 do not apply. Version Issuance Date Page Number Minimum Capital Requirements for Credit Risk 2.1 December 2022 88 of 349"
+      },
+      "tables": []
+    },
+    "9.77": {
+      "text": "9.77 First-to-default and all other nth-to-default credit derivatives (i.e. by which a \nbank obtains credit protection for a basket of reference names and where the \nfirst-ornth–to-default among the reference names triggers the credit protection \nand terminates the contract) are not eligible as a credit risk mitigation technique \nand therefore cannot provide any regulatory capital relief. In transactions in \nwhich a bank provided credit protection through such instruments, it shall apply \nthe treatment described in paragraph 7.94. \n \nRisk-weight treatment of transactions in which eligible credit protection is \nprovided",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.78": {
+      "text": "9.78 The general risk-weight treatment for transactions in which eligible credit \nprotection is provided is as follows:\n \n(1) The protected portion is assigned the risk weight of the protection \nprovider. The uncovered portion of the exposure is assigned the risk \nweight of the underlying counterparty. \n(2)Materiality thresholds on payments below which the protection \n \nprovider is exempt from payment in the event of loss are equivalent \nto retained first- loss positions. The portion of the exposure that is \nbelow a materiality threshold must be assigned a risk weight of 1250% \nby the bank purchasing the credit protection.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.79": {
+      "text": "9.79 Where losses are shared pari passu on a pro rata basis between the bank and the \nguarantor, capital relief is afforded on a proportional basis, i.e. the protected \nportion of the exposure receives the treatment applicable to eligible guarantees\n \n/credit derivatives, with the remainder treated as unsecured.",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.80": {
+      "text": "9.80 Where the bank transfers a portion of the risk of an exposure in one or more \ntranches to a protection seller or sellers and retains some level of the risk of the \nloan, and the risk transferred and the risk retained are of different seniority, banks \nmay obtain credit protection for either the senior tranches (e.g. the second-loss \nportion) or the junior tranche (e.g. the first-loss portion). In this case the rules as \nset out in the securitization standard apply.\n \n \nCurrency mismatches",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.82": {
+      "text": "9.82 The currency mismatch haircut for a 10-business day holding period (assuming \ndaily marking to market) is 8%. This haircut must be scaled up using the square \nroot of time formula, depending on the frequency of revaluation of the credit \nprotection as described in paragraph 9.58.\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSovereign guarantees and counter-guarantees",
+      "footnotes": {},
+      "tables": []
+    },
+    "9.83": {
+      "text": "9.83 As specified in paragraph 7.2, a 0% risk weight may be applied to a bank’s \nexposures to Saudi sovereign (or SAMA) where the exposure is denominated in \nand funded in Saudi Riyal. This treatment can be extended to portions of \nexposures guaranteed by the sovereign (or central bank), where the guarantee is \ndenominated in the domestic currency and the exposure is funded in that \ncurrency. An exposure may be covered by a guarantee that is indirectly counter- \nguaranteed by a sovereign. Such an exposure may be treated as covered by a \nsovereign guarantee provided that: \n(1) the sovereign counter-guarantee covers all credit risk elements of the \nexposure; \n(2) both the original guarantee and the counter-guarantee meet all \noperational requirements for guarantees, except that the counter- \nguarantee need not be direct and explicit to the original exposure; and \n(3) SAMA is satisfied that the cover is robust and that no historical evidence \nsuggests that the coverage of the counter-guarantee is less than \neffectively.",
+      "footnotes": {},
+      "tables": []
+    }
+  }
+}

@@ -1,34 +1,312 @@
-/* Clause text styling */
-.clause-text {
-  border-left: 3px solid var(--md-primary-fg-color);
-  padding-left: 1rem;
-  margin-bottom: 1rem;
+/* ═══════════════════════════════════════════════════════
+   SAMA Credit Risk Framework — Custom Styles
+   ═══════════════════════════════════════════════════════ */
+
+/* ── Brand Colours ─────────────────────────────────────── */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:           #00572B;
+  --md-primary-fg-color--light:    #007A3D;
+  --md-primary-fg-color--dark:     #003D1E;
+  --md-accent-fg-color:            #007A3D;
+  --md-accent-fg-color--transparent: rgba(0, 87, 43, 0.08);
+
+  --sama-surface:       #F4FAF6;
+  --sama-border:        #C8E4D1;
+  --sama-gold:          #B5830A;
+  --sama-red:           #B71C1C;
+  --sama-blue:          #1565C0;
+  --sama-card-shadow:   0 2px 8px rgba(0,87,43,0.10), 0 1px 2px rgba(0,87,43,0.06);
+  --sama-card-shadow-hover: 0 6px 20px rgba(0,87,43,0.18), 0 2px 6px rgba(0,87,43,0.10);
 }
 
-/* Risk weight tables */
-.md-typeset table:not([class]) {
-  font-size: 0.85rem;
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:           #00C060;
+  --md-primary-fg-color--light:    #00D870;
+  --md-primary-fg-color--dark:     #007A3D;
+  --md-accent-fg-color:            #00D870;
+  --md-accent-fg-color--transparent: rgba(0,192,96,0.10);
+
+  --sama-surface:       #1A2820;
+  --sama-border:        #1E4030;
+  --sama-gold:          #FFD54F;
+  --sama-red:           #EF5350;
+  --sama-blue:          #64B5F6;
+  --sama-card-shadow:   0 2px 8px rgba(0,0,0,0.30);
+  --sama-card-shadow-hover: 0 6px 24px rgba(0,0,0,0.45);
 }
 
-/* Clause anchor offset for fixed header */
-[id^="clause-"] {
-  scroll-margin-top: 4rem;
+/* ── Hero Block ────────────────────────────────────────── */
+
+.hero-block {
+  background: linear-gradient(135deg, var(--md-primary-fg-color--dark) 0%, var(--md-primary-fg-color) 100%);
+  color: #fff !important;
+  border-radius: 12px;
+  padding: 2rem 2.4rem 1.8rem;
+  margin-bottom: 2rem;
 }
 
-[id^="table-"] {
-  scroll-margin-top: 4rem;
+.hero-block p,
+.hero-block strong {
+  color: #fff !important;
 }
 
-/* Admonition for SAMA-specific rules */
+.hero-block .md-button {
+  margin-top: 0.8rem;
+  margin-right: 0.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.hero-block .md-button--primary {
+  background: #fff;
+  color: var(--md-primary-fg-color--dark) !important;
+  border: 2px solid #fff;
+}
+
+.hero-block .md-button--primary:hover {
+  background: rgba(255,255,255,0.9);
+}
+
+.hero-block .md-button:not(.md-button--primary) {
+  color: #fff !important;
+  border: 2px solid rgba(255,255,255,0.6);
+}
+
+.hero-block .md-button:not(.md-button--primary):hover {
+  border-color: #fff;
+  background: rgba(255,255,255,0.1);
+}
+
+/* ── Card Grid ─────────────────────────────────────────── */
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border: 1px solid var(--sama-border) !important;
+  border-radius: 10px !important;
+  box-shadow: var(--sama-card-shadow) !important;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+  background: var(--md-default-bg-color);
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--sama-card-shadow-hover) !important;
+  border-color: var(--md-primary-fg-color) !important;
+}
+
+.md-typeset .grid.cards > ul > li > .md-typeset p:last-child,
+.md-typeset .grid.cards > ol > li > .md-typeset p:last-child {
+  margin-top: auto;
+}
+
+/* ── Clause Blockquotes ────────────────────────────────── */
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: var(--sama-surface);
+  border-radius: 0 6px 6px 0;
+  padding: 0.9rem 1.1rem;
+  margin: 0.6rem 0 1rem;
+  font-size: 0.93rem;
+  line-height: 1.65;
+}
+
+.md-typeset blockquote strong:first-child {
+  color: var(--md-primary-fg-color);
+  font-size: 0.96rem;
+}
+
+/* ── Section Headings ──────────────────────────────────── */
+
+.md-typeset h3 {
+  border-bottom: 2px solid var(--sama-border);
+  padding-bottom: 0.3rem;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+}
+
+.md-typeset h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5rem;
+  color: var(--md-primary-fg-color--dark);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  color: var(--md-primary-fg-color--light);
+}
+
+/* ── Tab Styling ───────────────────────────────────────── */
+
+.md-typeset .tabbed-labels > label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.9rem;
+}
+
+.md-typeset .tabbed-content {
+  border: 1px solid var(--sama-border);
+  border-radius: 0 6px 6px 6px;
+  padding: 1rem 1.1rem 0.8rem;
+}
+
+/* ── Footnote Admonitions ──────────────────────────────── */
+
+.md-typeset details.note,
+.md-typeset .admonition.note {
+  border-color: var(--sama-gold) !important;
+  border-left-width: 4px;
+}
+
+.md-typeset .note > .admonition-title,
+.md-typeset details.note > summary {
+  background-color: rgba(181,131,10, 0.08) !important;
+  color: var(--sama-gold);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.md-typeset .note > .admonition-title::before,
+.md-typeset details.note > summary::before {
+  background-color: var(--sama-gold) !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .note > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset details.note > summary {
+  background-color: rgba(255,213,79,0.10) !important;
+}
+
+/* ── SAMA regulatory warning admonition ──────────────── */
+
 .md-typeset .admonition.sama,
 .md-typeset details.sama {
-  border-color: #c62828;
+  border-color: var(--sama-red) !important;
 }
+
 .md-typeset .sama > .admonition-title,
 .md-typeset .sama > summary {
-  background-color: rgba(198, 40, 40, 0.1);
+  background-color: rgba(183,28,28, 0.08) !important;
 }
+
 .md-typeset .sama > .admonition-title::before,
 .md-typeset .sama > summary::before {
-  background-color: #c62828;
+  background-color: var(--sama-red) !important;
+}
+
+/* ── Risk Weight Tables ────────────────────────────────── */
+
+.md-typeset table:not([class]) {
+  font-size: 0.86rem;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--sama-border);
+  box-shadow: 0 1px 4px rgba(0,87,43,0.07);
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  padding: 0.55rem 0.8rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.45rem 0.8rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background: var(--sama-surface);
+}
+
+.md-typeset table:not([class]) tr:hover td {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* ── Mermaid diagrams — scrollable container ──────────── */
+
+.md-typeset .mermaid {
+  overflow-x: auto;
+  padding: 0.5rem 0;
+  min-height: 100px;
+}
+
+/* ── Scroll anchors — offset for fixed header ─────────── */
+
+[id^="clause-"],
+[id^="section-"],
+[id^="table-"] {
+  scroll-margin-top: 4.5rem;
+}
+
+/* ── Download button in nav / hero ────────────────────── */
+
+.download-banner {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  background: var(--sama-surface);
+  border: 1px solid var(--sama-border);
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 0 8px 8px 0;
+  padding: 0.6rem 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+.download-banner a {
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.download-banner a:hover {
+  text-decoration: underline;
+}
+
+/* ── Clause tag badges ─────────────────────────────────── */
+
+.tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15rem 0.55rem;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-left: 0.3rem;
+}
+
+.tag-rw   { background: rgba(0,87,43,0.12); color: var(--md-primary-fg-color); }
+.tag-fn   { background: rgba(181,131,10,0.12); color: var(--sama-gold); }
+.tag-sama { background: rgba(183,28,28,0.10); color: var(--sama-red); }
+.tag-crm  { background: rgba(21,101,192,0.10); color: var(--sama-blue); }
+
+/* ── Footer ────────────────────────────────────────────── */
+
+.md-footer-meta__inner {
+  font-size: 0.75rem;
+}
+
+/* ── Print styles ──────────────────────────────────────── */
+
+@media print {
+  .md-sidebar,
+  .md-header,
+  .md-footer,
+  .tabbed-labels,
+  .hero-block .md-button {
+    display: none !important;
+  }
+
+  .md-typeset blockquote {
+    border-left: 3px solid #005A30;
+    background: #f9fff9;
+  }
 }
